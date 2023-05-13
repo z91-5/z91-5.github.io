@@ -1,0 +1,7718 @@
+[
+    {
+        "id": 931364,
+        "title": "13C Urea/Citric Acid"
+    },
+    {
+        "id": 924353,
+        "title": "14C Urea"
+    },
+    {
+        "id": 924838,
+        "title": "Abacavir Sulfate"
+    },
+    {
+        "id": 928257,
+        "title": "Abacavir Sulfate/Lamivudine"
+    },
+    {
+        "id": 925217,
+        "title": "Abacavir Sulfate/Lamivudine/Zidovudine"
+    },
+    {
+        "id": 931030,
+        "title": "Abacavir/Dolutegravir/Lamivudine"
+    },
+    {
+        "id": 928482,
+        "title": "Abatacept"
+    },
+    {
+        "id": 923273,
+        "title": "Abciximab"
+    },
+    {
+        "id": 929889,
+        "title": "Abiraterone Acetate"
+    },
+    {
+        "id": 929376,
+        "title": "AbobotulinumtoxinA"
+    },
+    {
+        "id": 928307,
+        "title": "Acamprosate Calcium"
+    },
+    {
+        "id": 923394,
+        "title": "Acarbose"
+    },
+    {
+        "id": 3640,
+        "title": "Acebutolol Hydrochloride"
+    },
+    {
+        "id": 4040,
+        "title": "Acetaminophen"
+    },
+    {
+        "id": 4050,
+        "title": "Acetaminophen/Codeine Phosphate"
+    },
+    {
+        "id": 432185,
+        "title": "Acetaminophen/Oxycodone Hydrochloride"
+    },
+    {
+        "id": 4140,
+        "title": "Acetazolamide"
+    },
+    {
+        "id": 923276,
+        "title": "Acetazolamide Sodium"
+    },
+    {
+        "id": 4190,
+        "title": "Acetic Acid"
+    },
+    {
+        "id": 4218,
+        "title": "Acetohydroxamic Acid"
+    },
+    {
+        "id": 4435,
+        "title": "Acetylcholine Chloride"
+    },
+    {
+        "id": 4590,
+        "title": "Acetylcysteine"
+    },
+    {
+        "id": 923624,
+        "title": "Acitretin"
+    },
+    {
+        "id": 930262,
+        "title": "Aclidinium Bromide"
+    },
+    {
+        "id": 931314,
+        "title": "Aclidinium bromide/Formoterol fumarate"
+    },
+    {
+        "id": 922299,
+        "title": "Acrivastine/Pseudoephedrine Hydrochloride"
+    },
+    {
+        "id": 115280,
+        "title": "Activated Charcoal"
+    },
+    {
+        "id": 7550,
+        "title": "Acyclovir"
+    },
+    {
+        "id": 7560,
+        "title": "Acyclovir Sodium"
+    },
+    {
+        "id": 929630,
+        "title": "Acyclovir/Hydrocortisone"
+    },
+    {
+        "id": 927665,
+        "title": "Adalimumab"
+    },
+    {
+        "id": 923667,
+        "title": "Adapalene"
+    },
+    {
+        "id": 929269,
+        "title": "Adapalene/Benzoyl Peroxide"
+    },
+    {
+        "id": 927009,
+        "title": "Adefovir Dipivoxil"
+    },
+    {
+        "id": 8440,
+        "title": "Adenosine"
+    },
+    {
+        "id": 930620,
+        "title": "Adenovirus Type 4 and Type 7 Vaccine, Live"
+    },
+    {
+        "id": 930478,
+        "title": "Ado-Trastuzumab Emtansine"
+    },
+    {
+        "id": 931350,
+        "title": "Afamelanotide"
+    },
+    {
+        "id": 930558,
+        "title": "Afatinib Dimaleate"
+    },
+    {
+        "id": 930048,
+        "title": "Aflibercept"
+    },
+    {
+        "id": 927743,
+        "title": "Agalsidase Beta"
+    },
+    {
+        "id": 930346,
+        "title": "Agomelatine"
+    },
+    {
+        "id": 923350,
+        "title": "Albendazole"
+    },
+    {
+        "id": 930934,
+        "title": "Albiglutide"
+    },
+    {
+        "id": 13220,
+        "title": "Albumin Human"
+    },
+    {
+        "id": 926732,
+        "title": "Albumin, Iodinated I-125"
+    },
+    {
+        "id": 925314,
+        "title": "Albumin, Iodinated I-131"
+    },
+    {
+        "id": 13460,
+        "title": "Albuterol Sulfate"
+    },
+    {
+        "id": 929673,
+        "title": "Alcaftadine"
+    },
+    {
+        "id": 13505,
+        "title": "Alclometasone Dipropionate"
+    },
+    {
+        "id": 14200,
+        "title": "Aldesleukin"
+    },
+    {
+        "id": 927697,
+        "title": "Alefacept"
+    },
+    {
+        "id": 926421,
+        "title": "Alemtuzumab"
+    },
+    {
+        "id": 923400,
+        "title": "Alendronate Sodium"
+    },
+    {
+        "id": 928398,
+        "title": "Alendronate Sodium/Cholecalciferol"
+    },
+    {
+        "id": 14967,
+        "title": "Alfentanil Hydrochloride"
+    },
+    {
+        "id": 927898,
+        "title": "Alfuzosin Hydrochloride"
+    },
+    {
+        "id": 15240,
+        "title": "Alglucerase"
+    },
+    {
+        "id": 928546,
+        "title": "Alglucosidase Alfa"
+    },
+    {
+        "id": 930435,
+        "title": "Alipogene Tiparvovec"
+    },
+    {
+        "id": 928760,
+        "title": "Aliskiren"
+    },
+    {
+        "id": 929679,
+        "title": "Aliskiren/Amlodipine"
+    },
+    {
+        "id": 929778,
+        "title": "Aliskiren/Amlodipine Besylate/Hydrochlorothiazide"
+    },
+    {
+        "id": 928975,
+        "title": "Aliskiren/Hydrochlorothiazide"
+    },
+    {
+        "id": 929474,
+        "title": "Aliskiren/Valsartan"
+    },
+    {
+        "id": 924927,
+        "title": "Alitretinoin"
+    },
+    {
+        "id": 18270,
+        "title": "Allopurinol"
+    },
+    {
+        "id": 924986,
+        "title": "Allopurinol Sodium"
+    },
+    {
+        "id": 926439,
+        "title": "Almotriptan Malate"
+    },
+    {
+        "id": 930395,
+        "title": "Alogliptin Benzoate"
+    },
+    {
+        "id": 930394,
+        "title": "Alogliptin Benzoate/Metformin Hydrochloride"
+    },
+    {
+        "id": 930392,
+        "title": "Alogliptin Benzoate/Pioglitazone Hydrochloride"
+    },
+    {
+        "id": 925156,
+        "title": "Alosetron Hydrochloride"
+    },
+    {
+        "id": 490360,
+        "title": "Alpha-1 Proteinase Inhibitor Human"
+    },
+    {
+        "id": 20400,
+        "title": "Alprazolam"
+    },
+    {
+        "id": 20420,
+        "title": "Alprostadil"
+    },
+    {
+        "id": 20930,
+        "title": "Alteplase, Recombinant"
+    },
+    {
+        "id": 20950,
+        "title": "Altretamine"
+    },
+    {
+        "id": 21490,
+        "title": "Aluminum Hydroxide/Magnesium Hydroxide/Simethicone"
+    },
+    {
+        "id": 929043,
+        "title": "Alvimopan"
+    },
+    {
+        "id": 22300,
+        "title": "Amantadine Hydrochloride"
+    },
+    {
+        "id": 928806,
+        "title": "Ambrisentan"
+    },
+    {
+        "id": 23215,
+        "title": "Amcinonide"
+    },
+    {
+        "id": 930406,
+        "title": "Amifampridine Phosphate"
+    },
+    {
+        "id": 923557,
+        "title": "Amifostine"
+    },
+    {
+        "id": 24445,
+        "title": "Amikacin Sulfate"
+    },
+    {
+        "id": 24464,
+        "title": "Amiloride Hydrochloride"
+    },
+    {
+        "id": 24467,
+        "title": "Amiloride Hydrochloride/Hydrochlorothiazide"
+    },
+    {
+        "id": 24828,
+        "title": "Aminocaproic Acid"
+    },
+    {
+        "id": 24960,
+        "title": "Aminoglutethimide"
+    },
+    {
+        "id": 24990,
+        "title": "Aminohippurate Sodium"
+    },
+    {
+        "id": 925427,
+        "title": "Aminolevulinic Acid"
+    },
+    {
+        "id": 25250,
+        "title": "Aminophylline"
+    },
+    {
+        "id": 25550,
+        "title": "Aminosalicylic Acid"
+    },
+    {
+        "id": 25645,
+        "title": "Amiodarone Hydrochloride"
+    },
+    {
+        "id": 25920,
+        "title": "Amitriptyline Hydrochloride"
+    },
+    {
+        "id": 924333,
+        "title": "Amlexanox"
+    },
+    {
+        "id": 25980,
+        "title": "Amlodipine Besylate"
+    },
+    {
+        "id": 927998,
+        "title": "Amlodipine Besylate/Atorvastatin Calcium"
+    },
+    {
+        "id": 928885,
+        "title": "Amlodipine Besylate/Olmesartan Medoxomil"
+    },
+    {
+        "id": 923362,
+        "title": "Amlodipine/Benazepril"
+    },
+    {
+        "id": 928814,
+        "title": "Amlodipine/Valsartan"
+    },
+    {
+        "id": 929365,
+        "title": "Amlodipine/Valsartan/Hydrochlorothiazide"
+    },
+    {
+        "id": 26180,
+        "title": "Ammonium Chloride"
+    },
+    {
+        "id": 26229,
+        "title": "Ammonium Lactate"
+    },
+    {
+        "id": 26450,
+        "title": "Amobarbital Sodium"
+    },
+    {
+        "id": 27180,
+        "title": "Amoxapine"
+    },
+    {
+        "id": 27190,
+        "title": "Amoxicillin"
+    },
+    {
+        "id": 27193,
+        "title": "Amoxicillin/Clavulanate Potassium"
+    },
+    {
+        "id": 28135,
+        "title": "Amphotericin B"
+    },
+    {
+        "id": 924205,
+        "title": "Amphotericin B Cholesteryl Sulfate Complex"
+    },
+    {
+        "id": 924051,
+        "title": "Amphotericin B Lipid Complex"
+    },
+    {
+        "id": 924364,
+        "title": "Amphotericin B Liposome"
+    },
+    {
+        "id": 28340,
+        "title": "Ampicillin"
+    },
+    {
+        "id": 28410,
+        "title": "Ampicillin Sodium"
+    },
+    {
+        "id": 574370,
+        "title": "Ampicillin Sodium/Sulbactam Sodium"
+    },
+    {
+        "id": 29030,
+        "title": "Amyl Nitrite"
+    },
+    {
+        "id": 924224,
+        "title": "Anagrelide Hydrochloride"
+    },
+    {
+        "id": 926783,
+        "title": "Anakinra"
+    },
+    {
+        "id": 923519,
+        "title": "Anastrozole"
+    },
+    {
+        "id": 928515,
+        "title": "Anidulafungin"
+    },
+    {
+        "id": 391125,
+        "title": "Antazoline Phosphate/Naphazoline Hydrochloride"
+    },
+    {
+        "id": 931377,
+        "title": "Anthrax Immune Globulin"
+    },
+    {
+        "id": 925307,
+        "title": "Anthrax Vaccine Adsorbed"
+    },
+    {
+        "id": 34350,
+        "title": "Anti-Inhibitor Coagulant Complex"
+    },
+    {
+        "id": 927833,
+        "title": "Antihemophilic Factor (Recombinant) Plasma/Albumin-Free"
+    },
+    {
+        "id": 931286,
+        "title": "Antihemophilic Factor (Recombinant) Porcine Sequence"
+    },
+    {
+        "id": 924955,
+        "title": "Antihemophilic Factor VIII (Recombinant)"
+    },
+    {
+        "id": 930978,
+        "title": "Antihemophilic Factor VIII Fc Fusion Protein Recombinant"
+    },
+    {
+        "id": 34300,
+        "title": "Antihemophilic Factor VIII Human"
+    },
+    {
+        "id": 928859,
+        "title": "Antihemophilic Factor VIII/Von Willebrand Factor (Human)"
+    },
+    {
+        "id": 924957,
+        "title": "Antihemophilic Factor VIII:C Human"
+    },
+    {
+        "id": 35195,
+        "title": "Antithrombin III Human"
+    },
+    {
+        "id": 929282,
+        "title": "Antithrombin, Recombinant"
+    },
+    {
+        "id": 928697,
+        "title": "Antithymocyte Globulin Equine"
+    },
+    {
+        "id": 928033,
+        "title": "Antithymocyte Globulin Rabbit"
+    },
+    {
+        "id": 35310,
+        "title": "Antivenin (Crotalidae) Polyvalent"
+    },
+    {
+        "id": 926116,
+        "title": "Antivenin (Crotalidae) Polyvalent Immune Fab"
+    },
+    {
+        "id": 35315,
+        "title": "Antivenin (Latrodectus Mactans)"
+    },
+    {
+        "id": 930345,
+        "title": "Apixaban"
+    },
+    {
+        "id": 37180,
+        "title": "Apomorphine Hydrochloride"
+    },
+    {
+        "id": 37760,
+        "title": "Apraclonidine Hydrochloride"
+    },
+    {
+        "id": 930920,
+        "title": "Apremilast"
+    },
+    {
+        "id": 927719,
+        "title": "Aprepitant"
+    },
+    {
+        "id": 922305,
+        "title": "Aprotinin"
+    },
+    {
+        "id": 928630,
+        "title": "Arformoterol Tartrate"
+    },
+    {
+        "id": 925435,
+        "title": "Argatroban"
+    },
+    {
+        "id": 927028,
+        "title": "Aripiprazole"
+    },
+    {
+        "id": 928807,
+        "title": "Armodafinil"
+    },
+    {
+        "id": 922444,
+        "title": "Arsenic Trioxide"
+    },
+    {
+        "id": 929345,
+        "title": "Artemether/Lumefantrine"
+    },
+    {
+        "id": 927010,
+        "title": "Articaine Hydrochloride/Epinephrine"
+    },
+    {
+        "id": 666100,
+        "title": "Ascorbic Acid"
+    },
+    {
+        "id": 929452,
+        "title": "Asenapine"
+    },
+    {
+        "id": 930045,
+        "title": "Asparaginase Erwinia Chrysanthemi"
+    },
+    {
+        "id": 46910,
+        "title": "Aspirin"
+    },
+    {
+        "id": 94545,
+        "title": "Aspirin/Butalbital/Caffeine"
+    },
+    {
+        "id": 180129,
+        "title": "Aspirin/Caffeine/Dihydrocodeine Bitartrate"
+    },
+    {
+        "id": 46920,
+        "title": "Aspirin/Codeine Phosphate"
+    },
+    {
+        "id": 925056,
+        "title": "Aspirin/Dipyridamole"
+    },
+    {
+        "id": 926646,
+        "title": "Aspirin/Oxycodone Hydrochloride"
+    },
+    {
+        "id": 930618,
+        "title": "Aspirin/Pravastatin Sodium"
+    },
+    {
+        "id": 931055,
+        "title": "Ataluren"
+    },
+    {
+        "id": 927780,
+        "title": "Atazanavir Sulfate"
+    },
+    {
+        "id": 931343,
+        "title": "Atazanavir/Cobicistat"
+    },
+    {
+        "id": 48215,
+        "title": "Atenolol"
+    },
+    {
+        "id": 48235,
+        "title": "Atenolol/Chlorthalidone"
+    },
+    {
+        "id": 927591,
+        "title": "Atomoxetine Hydrochloride"
+    },
+    {
+        "id": 924144,
+        "title": "Atorvastatin Calcium"
+    },
+    {
+        "id": 48300,
+        "title": "Atovaquone"
+    },
+    {
+        "id": 928406,
+        "title": "Atovaquone/Proguanil Hydrochloride"
+    },
+    {
+        "id": 48795,
+        "title": "Atracurium Besylate"
+    },
+    {
+        "id": 922446,
+        "title": "Atropine"
+    },
+    {
+        "id": 49300,
+        "title": "Atropine Sulfate"
+    },
+    {
+        "id": 930593,
+        "title": "Atropine/Pralidoxime Chloride"
+    },
+    {
+        "id": 50660,
+        "title": "Auranofin"
+    },
+    {
+        "id": 930202,
+        "title": "Avanafil"
+    },
+    {
+        "id": 930099,
+        "title": "Axitinib"
+    },
+    {
+        "id": 928135,
+        "title": "Azacitidine"
+    },
+    {
+        "id": 51765,
+        "title": "Azathioprine"
+    },
+    {
+        "id": 923278,
+        "title": "Azathioprine Sodium"
+    },
+    {
+        "id": 922853,
+        "title": "Azelaic Acid"
+    },
+    {
+        "id": 924120,
+        "title": "Azelastine Hydrochloride"
+    },
+    {
+        "id": 930204,
+        "title": "Azelastine hydrochloride/Fluticasone propionate"
+    },
+    {
+        "id": 929962,
+        "title": "Azficel-T"
+    },
+    {
+        "id": 929810,
+        "title": "Azilsartan Medoxomil"
+    },
+    {
+        "id": 930085,
+        "title": "Azilsartan Medoxomil/Chlorthalidone"
+    },
+    {
+        "id": 928480,
+        "title": "Azithromycin"
+    },
+    {
+        "id": 53342,
+        "title": "Aztreonam"
+    },
+    {
+        "id": 922388,
+        "title": "Bacillus of Calmette and Guerin Vaccine, Live"
+    },
+    {
+        "id": 55850,
+        "title": "Bacitracin"
+    },
+    {
+        "id": 55960,
+        "title": "Baclofen"
+    },
+    {
+        "id": 925998,
+        "title": "Balsalazide Disodium"
+    },
+    {
+        "id": 633295,
+        "title": "Balsam Peru/Castor Oil/Trypsin"
+    },
+    {
+        "id": 59600,
+        "title": "Barium Sulfate"
+    },
+    {
+        "id": 924722,
+        "title": "Basiliximab"
+    },
+    {
+        "id": 924558,
+        "title": "Becaplermin"
+    },
+    {
+        "id": 62920,
+        "title": "Beclomethasone Dipropionate"
+    },
+    {
+        "id": 930356,
+        "title": "Bedaquiline Fumarate"
+    },
+    {
+        "id": 929954,
+        "title": "Belatacept"
+    },
+    {
+        "id": 929818,
+        "title": "Belimumab"
+    },
+    {
+        "id": 930999,
+        "title": "Belinostat"
+    },
+    {
+        "id": 463400,
+        "title": "Belladonna Alkaloids/Phenobarbital"
+    },
+    {
+        "id": 423500,
+        "title": "Belladonna/Opium"
+    },
+    {
+        "id": 68430,
+        "title": "Benazepril Hydrochloride"
+    },
+    {
+        "id": 922297,
+        "title": "Benazepril/Hydrochlorothiazide"
+    },
+    {
+        "id": 929003,
+        "title": "Bendamustine Hydrochloride"
+    },
+    {
+        "id": 68550,
+        "title": "Bendroflumethiazide"
+    },
+    {
+        "id": 924031,
+        "title": "Bentoquatam"
+    },
+    {
+        "id": 69710,
+        "title": "Benzocaine"
+    },
+    {
+        "id": 70110,
+        "title": "Benzonatate"
+    },
+    {
+        "id": 70175,
+        "title": "Benzoyl Peroxide"
+    },
+    {
+        "id": 70185,
+        "title": "Benzphetamine Hydrochloride"
+    },
+    {
+        "id": 70194,
+        "title": "Benzquinamide Hydrochloride"
+    },
+    {
+        "id": 70199,
+        "title": "Benztropine Mesylate"
+    },
+    {
+        "id": 922186,
+        "title": "Benzyl Alcohol"
+    },
+    {
+        "id": 70260,
+        "title": "Benzylpenicilloyl Polylysine"
+    },
+    {
+        "id": 929467,
+        "title": "Bepotastine Besilate"
+    },
+    {
+        "id": 70450,
+        "title": "Beractant"
+    },
+    {
+        "id": 929385,
+        "title": "Besifloxacin Hydrochloride"
+    },
+    {
+        "id": 924089,
+        "title": "Betaine"
+    },
+    {
+        "id": 72150,
+        "title": "Betamethasone"
+    },
+    {
+        "id": 72145,
+        "title": "Betamethasone Sodium Phosphate/Betamethasone Acetate"
+    },
+    {
+        "id": 72450,
+        "title": "Betaxolol Hydrochloride"
+    },
+    {
+        "id": 72500,
+        "title": "Bethanechol Chloride"
+    },
+    {
+        "id": 928020,
+        "title": "Bevacizumab"
+    },
+    {
+        "id": 925073,
+        "title": "Bexarotene"
+    },
+    {
+        "id": 923404,
+        "title": "Bicalutamide"
+    },
+    {
+        "id": 926176,
+        "title": "Bimatoprost"
+    },
+    {
+        "id": 930383,
+        "title": "Bimatoprost/Timolol Maleate"
+    },
+    {
+        "id": 77750,
+        "title": "Biperiden Hydrochloride"
+    },
+    {
+        "id": 78280,
+        "title": "Bisacodyl"
+    },
+    {
+        "id": 928788,
+        "title": "Bismuth Subcitrate Potassium/Metronidazole/Tetracycline"
+    },
+    {
+        "id": 79075,
+        "title": "Bismuth Subsalicylate"
+    },
+    {
+        "id": 930625,
+        "title": "Bismuth Subsalicylate/Metronidazole/Tetracycline"
+    },
+    {
+        "id": 922104,
+        "title": "Bisoprolol Fumarate"
+    },
+    {
+        "id": 922105,
+        "title": "Bisoprolol Fumarate/Hydrochlorothiazide"
+    },
+    {
+        "id": 79430,
+        "title": "Bitolterol Mesylate"
+    },
+    {
+        "id": 926026,
+        "title": "Bivalirudin"
+    },
+    {
+        "id": 80775,
+        "title": "Bleomycin Sulfate"
+    },
+    {
+        "id": 931306,
+        "title": "Blinatumomab"
+    },
+    {
+        "id": 929919,
+        "title": "Boceprevir"
+    },
+    {
+        "id": 927753,
+        "title": "Bortezomib"
+    },
+    {
+        "id": 926830,
+        "title": "Bosentan"
+    },
+    {
+        "id": 930282,
+        "title": "Bosutinib"
+    },
+    {
+        "id": 930459,
+        "title": "Botulism Equine Heptavalent Antitoxin (ABCDEFG)"
+    },
+    {
+        "id": 928037,
+        "title": "Botulism Immune Globulin"
+    },
+    {
+        "id": 930001,
+        "title": "Brentuximab Vedotin"
+    },
+    {
+        "id": 923854,
+        "title": "Brimonidine Tartrate"
+    },
+    {
+        "id": 928918,
+        "title": "Brimonidine Tartrate/Timolol Maleate"
+    },
+    {
+        "id": 924710,
+        "title": "Brinzolamide"
+    },
+    {
+        "id": 930486,
+        "title": "Brinzolamide/Brimonidine Tartrate"
+    },
+    {
+        "id": 930377,
+        "title": "Brinzolamide/Timolol Maleate"
+    },
+    {
+        "id": 924332,
+        "title": "Bromfenac Sodium"
+    },
+    {
+        "id": 88677,
+        "title": "Bromocriptine Mesylate"
+    },
+    {
+        "id": 88770,
+        "title": "Brompheniramine Maleate"
+    },
+    {
+        "id": 922308,
+        "title": "Budesonide"
+    },
+    {
+        "id": 928556,
+        "title": "Budesonide/Formoterol"
+    },
+    {
+        "id": 92410,
+        "title": "Bumetanide"
+    },
+    {
+        "id": 92550,
+        "title": "Bupivacaine Hydrochloride"
+    },
+    {
+        "id": 930031,
+        "title": "Bupivacaine Liposome"
+    },
+    {
+        "id": 929645,
+        "title": "Buprenorphine"
+    },
+    {
+        "id": 92577,
+        "title": "Buprenorphine Hydrochloride"
+    },
+    {
+        "id": 930981,
+        "title": "Buprenorphine/Naloxone"
+    },
+    {
+        "id": 929312,
+        "title": "Bupropion Hydrobromide"
+    },
+    {
+        "id": 92580,
+        "title": "Bupropion Hydrochloride"
+    },
+    {
+        "id": 93810,
+        "title": "Buspirone Hydrochloride"
+    },
+    {
+        "id": 93840,
+        "title": "Busulfan"
+    },
+    {
+        "id": 93980,
+        "title": "Butabarbital Sodium"
+    },
+    {
+        "id": 94540,
+        "title": "Butalbital/Acetaminophen/Caffeine"
+    },
+    {
+        "id": 130959,
+        "title": "Butalbital/Acetaminophen/Caffeine/Codeine Phosphate"
+    },
+    {
+        "id": 130964,
+        "title": "Butalbital/Aspirin/Caffeine/Codeine Phosphate"
+    },
+    {
+        "id": 923850,
+        "title": "Butenafine Hydrochloride"
+    },
+    {
+        "id": 95650,
+        "title": "Butoconazole Nitrate"
+    },
+    {
+        "id": 95670,
+        "title": "Butorphanol Tartrate"
+    },
+    {
+        "id": 931008,
+        "title": "C1 Esterase Inhibitor Recombinant"
+    },
+    {
+        "id": 929218,
+        "title": "C1 Esterase Inhibitor, Human"
+    },
+    {
+        "id": 929642,
+        "title": "Cabazitaxel"
+    },
+    {
+        "id": 923960,
+        "title": "Cabergoline"
+    },
+    {
+        "id": 930355,
+        "title": "Cabozantinib Malate"
+    },
+    {
+        "id": 97990,
+        "title": "Caffeine"
+    },
+    {
+        "id": 97995,
+        "title": "Caffeine Citrate"
+    },
+    {
+        "id": 98030,
+        "title": "Caffeine/Sodium Benzoate"
+    },
+    {
+        "id": 922281,
+        "title": "Calcipotriene"
+    },
+    {
+        "id": 928506,
+        "title": "Calcipotriene/Betamethasone Dipropionate"
+    },
+    {
+        "id": 99515,
+        "title": "Calcitonin (Salmon)"
+    },
+    {
+        "id": 99517,
+        "title": "Calcitriol"
+    },
+    {
+        "id": 99521,
+        "title": "Calcium Acetate"
+    },
+    {
+        "id": 99590,
+        "title": "Calcium Carbonate"
+    },
+    {
+        "id": 99680,
+        "title": "Calcium Chloride"
+    },
+    {
+        "id": 99700,
+        "title": "Calcium Citrate"
+    },
+    {
+        "id": 99890,
+        "title": "Calcium Gluconate"
+    },
+    {
+        "id": 100298,
+        "title": "Calcium Polycarbophil"
+    },
+    {
+        "id": 925034,
+        "title": "Calfactant"
+    },
+    {
+        "id": 930464,
+        "title": "Canagliflozin"
+    },
+    {
+        "id": 930959,
+        "title": "Canagliflozin/Metformin Hydrochloride"
+    },
+    {
+        "id": 929409,
+        "title": "Canakinumab"
+    },
+    {
+        "id": 924785,
+        "title": "Candesartan Cilexetil"
+    },
+    {
+        "id": 925387,
+        "title": "Candesartan Cilexetil/Hydrochlorothiazide"
+    },
+    {
+        "id": 931450,
+        "title": "Cangrelor"
+    },
+    {
+        "id": 924719,
+        "title": "Capecitabine"
+    },
+    {
+        "id": 106006,
+        "title": "Capreomycin"
+    },
+    {
+        "id": 106165,
+        "title": "Capsaicin"
+    },
+    {
+        "id": 106355,
+        "title": "Captopril"
+    },
+    {
+        "id": 106356,
+        "title": "Captopril/Hydrochlorothiazide"
+    },
+    {
+        "id": 106580,
+        "title": "Carbachol"
+    },
+    {
+        "id": 106598,
+        "title": "Carbamazepine"
+    },
+    {
+        "id": 106600,
+        "title": "Carbamide Peroxide"
+    },
+    {
+        "id": 108000,
+        "title": "Carbidopa/Levodopa"
+    },
+    {
+        "id": 927836,
+        "title": "Carbidopa/Levodopa/Entacapone"
+    },
+    {
+        "id": 924253,
+        "title": "Carbinoxamine Maleate"
+    },
+    {
+        "id": 107100,
+        "title": "Carboplatin"
+    },
+    {
+        "id": 107150,
+        "title": "Carboprost Tromethamine"
+    },
+    {
+        "id": 930254,
+        "title": "Carfilzomib"
+    },
+    {
+        "id": 929604,
+        "title": "Carglumic Acid"
+    },
+    {
+        "id": 108150,
+        "title": "Carisoprodol"
+    },
+    {
+        "id": 108160,
+        "title": "Carisoprodol/Aspirin"
+    },
+    {
+        "id": 108155,
+        "title": "Carisoprodol/Aspirin/Codeine Phosphate"
+    },
+    {
+        "id": 108375,
+        "title": "Carmustine"
+    },
+    {
+        "id": 108800,
+        "title": "Carteolol Hydrochloride"
+    },
+    {
+        "id": 924273,
+        "title": "Carvedilol"
+    },
+    {
+        "id": 928651,
+        "title": "Carvedilol Phosphate"
+    },
+    {
+        "id": 926097,
+        "title": "Caspofungin Acetate"
+    },
+    {
+        "id": 110260,
+        "title": "Castor Oil"
+    },
+    {
+        "id": 930336,
+        "title": "Catumaxomab"
+    },
+    {
+        "id": 111665,
+        "title": "Cefaclor"
+    },
+    {
+        "id": 111670,
+        "title": "Cefadroxil"
+    },
+    {
+        "id": 111678,
+        "title": "Cefazolin Sodium"
+    },
+    {
+        "id": 924721,
+        "title": "Cefdinir"
+    },
+    {
+        "id": 926812,
+        "title": "Cefditoren Pivoxil"
+    },
+    {
+        "id": 923601,
+        "title": "Cefepime Hydrochloride"
+    },
+    {
+        "id": 111700,
+        "title": "Cefixime"
+    },
+    {
+        "id": 111725,
+        "title": "Cefoperazone Sodium"
+    },
+    {
+        "id": 111730,
+        "title": "Cefotaxime Sodium"
+    },
+    {
+        "id": 111731,
+        "title": "Cefotetan Disodium"
+    },
+    {
+        "id": 111732,
+        "title": "Cefoxitin Sodium"
+    },
+    {
+        "id": 111735,
+        "title": "Cefpodoxime Proxetil"
+    },
+    {
+        "id": 111718,
+        "title": "Cefprozil"
+    },
+    {
+        "id": 929751,
+        "title": "Ceftaroline Fosamil"
+    },
+    {
+        "id": 111733,
+        "title": "Ceftazidime"
+    },
+    {
+        "id": 931363,
+        "title": "Ceftazidime/Avibactam"
+    },
+    {
+        "id": 923448,
+        "title": "Ceftibuten"
+    },
+    {
+        "id": 111734,
+        "title": "Ceftizoxime Sodium"
+    },
+    {
+        "id": 931323,
+        "title": "Ceftolozane/Tazobactam"
+    },
+    {
+        "id": 111736,
+        "title": "Ceftriaxone Sodium"
+    },
+    {
+        "id": 111737,
+        "title": "Cefuroxime Axetil"
+    },
+    {
+        "id": 111738,
+        "title": "Cefuroxime Sodium"
+    },
+    {
+        "id": 924848,
+        "title": "Celecoxib"
+    },
+    {
+        "id": 112771,
+        "title": "Cephalexin"
+    },
+    {
+        "id": 112866,
+        "title": "Cephradine"
+    },
+    {
+        "id": 930943,
+        "title": "Ceritinib"
+    },
+    {
+        "id": 929020,
+        "title": "Certolizumab Pegol"
+    },
+    {
+        "id": 923433,
+        "title": "Cetirizine Hydrochloride"
+    },
+    {
+        "id": 926635,
+        "title": "Cetirizine Hydrochloride/Pseudoephedrine Hydrochloride"
+    },
+    {
+        "id": 926084,
+        "title": "Cetrorelix Acetate"
+    },
+    {
+        "id": 928013,
+        "title": "Cetuximab"
+    },
+    {
+        "id": 133180,
+        "title": "Cetyl Alcohol/Colfosceril Palmitate/Tyloxapol"
+    },
+    {
+        "id": 925190,
+        "title": "Cevimeline Hydrochloride"
+    },
+    {
+        "id": 116285,
+        "title": "Chenodiol"
+    },
+    {
+        "id": 118945,
+        "title": "Chlorambucil"
+    },
+    {
+        "id": 119005,
+        "title": "Chloramphenicol Sodium Succinate"
+    },
+    {
+        "id": 119270,
+        "title": "Chlordiazepoxide Hydrochloride"
+    },
+    {
+        "id": 119275,
+        "title": "Chlordiazepoxide Hydrochloride/Clidinium Bromide"
+    },
+    {
+        "id": 119260,
+        "title": "Chlordiazepoxide/Amitriptyline Hydrochloride"
+    },
+    {
+        "id": 119520,
+        "title": "Chlorhexidine Gluconate"
+    },
+    {
+        "id": 120120,
+        "title": "Chloroprocaine Hydrochloride"
+    },
+    {
+        "id": 120230,
+        "title": "Chloroquine Phosphate"
+    },
+    {
+        "id": 120300,
+        "title": "Chlorothiazide"
+    },
+    {
+        "id": 923284,
+        "title": "Chlorothiazide Sodium"
+    },
+    {
+        "id": 120370,
+        "title": "Chloroxine"
+    },
+    {
+        "id": 120650,
+        "title": "Chlorpheniramine Maleate"
+    },
+    {
+        "id": 928160,
+        "title": "Chlorpheniramine Polistirex/Codeine Polistirex"
+    },
+    {
+        "id": 120790,
+        "title": "Chlorpromazine Hydrochloride"
+    },
+    {
+        "id": 120791,
+        "title": "Chlorpropamide"
+    },
+    {
+        "id": 120855,
+        "title": "Chlorthalidone"
+    },
+    {
+        "id": 127795,
+        "title": "Chlorthalidone/Clonidine Hydrochloride"
+    },
+    {
+        "id": 120927,
+        "title": "Chlorzoxazone"
+    },
+    {
+        "id": 922242,
+        "title": "Cholecalciferol"
+    },
+    {
+        "id": 121685,
+        "title": "Cholestyramine"
+    },
+    {
+        "id": 930804,
+        "title": "Cholic Acid"
+    },
+    {
+        "id": 925294,
+        "title": "Chondrocytes, Autologous Cultured"
+    },
+    {
+        "id": 261025,
+        "title": "Chorionic Gonadotropin"
+    },
+    {
+        "id": 926015,
+        "title": "Chorionic Gonadotropin Alfa, Recombinant"
+    },
+    {
+        "id": 924411,
+        "title": "Chromic Phosphate P 32"
+    },
+    {
+        "id": 928653,
+        "title": "Ciclesonide"
+    },
+    {
+        "id": 925158,
+        "title": "Ciclopirox"
+    },
+    {
+        "id": 123978,
+        "title": "Ciclopirox Olamine"
+    },
+    {
+        "id": 923681,
+        "title": "Cidofovir"
+    },
+    {
+        "id": 924934,
+        "title": "Cilostazol"
+    },
+    {
+        "id": 124082,
+        "title": "Cimetidine"
+    },
+    {
+        "id": 922387,
+        "title": "Cimetidine Hydrochloride"
+    },
+    {
+        "id": 928031,
+        "title": "Cinacalcet Hydrochloride"
+    },
+    {
+        "id": 124439,
+        "title": "Cinoxacin"
+    },
+    {
+        "id": 923286,
+        "title": "Ciprofloxacin"
+    },
+    {
+        "id": 124562,
+        "title": "Ciprofloxacin Hydrochloride"
+    },
+    {
+        "id": 927846,
+        "title": "Ciprofloxacin Hydrochloride/Dexamethasone"
+    },
+    {
+        "id": 924720,
+        "title": "Ciprofloxacin Hydrochloride/Hydrocortisone"
+    },
+    {
+        "id": 923500,
+        "title": "Cisatracurium Besylate"
+    },
+    {
+        "id": 124685,
+        "title": "Cisplatin"
+    },
+    {
+        "id": 924766,
+        "title": "Citalopram Hydrobromide"
+    },
+    {
+        "id": 475890,
+        "title": "Citric Acid/Potassium Citrate"
+    },
+    {
+        "id": 125680,
+        "title": "Cladribine"
+    },
+    {
+        "id": 126900,
+        "title": "Clarithromycin"
+    },
+    {
+        "id": 126800,
+        "title": "Clemastine Fumarate"
+    },
+    {
+        "id": 930061,
+        "title": "Clevidipine"
+    },
+    {
+        "id": 127133,
+        "title": "Clindamycin Hydrochloride"
+    },
+    {
+        "id": 127200,
+        "title": "Clindamycin Palmitate Hydrochloride"
+    },
+    {
+        "id": 127250,
+        "title": "Clindamycin Phosphate"
+    },
+    {
+        "id": 926081,
+        "title": "Clindamycin Phosphate/Benzoyl Peroxide"
+    },
+    {
+        "id": 928664,
+        "title": "Clindamycin Phosphate/Tretinoin"
+    },
+    {
+        "id": 291650,
+        "title": "Clioquinol/Hydrocortisone"
+    },
+    {
+        "id": 923630,
+        "title": "Clobazam"
+    },
+    {
+        "id": 127675,
+        "title": "Clobetasol Propionate"
+    },
+    {
+        "id": 127720,
+        "title": "Clocortolone Pivalate"
+    },
+    {
+        "id": 928356,
+        "title": "Clofarabine"
+    },
+    {
+        "id": 127735,
+        "title": "Clofazimine"
+    },
+    {
+        "id": 127770,
+        "title": "Clomiphene Citrate"
+    },
+    {
+        "id": 127775,
+        "title": "Clomipramine Hydrochloride"
+    },
+    {
+        "id": 127780,
+        "title": "Clonazepam"
+    },
+    {
+        "id": 127785,
+        "title": "Clonidine"
+    },
+    {
+        "id": 127797,
+        "title": "Clonidine Hydrochloride"
+    },
+    {
+        "id": 924572,
+        "title": "Clopidogrel Hydrogen Sulfate"
+    },
+    {
+        "id": 930371,
+        "title": "Clopidogrel Hydrogen Sulfate/Acetylsalicylic Acid"
+    },
+    {
+        "id": 119185,
+        "title": "Clorazepate Dipotassium"
+    },
+    {
+        "id": 128200,
+        "title": "Clotrimazole"
+    },
+    {
+        "id": 72154,
+        "title": "Clotrimazole/Betamethasone Dipropionate"
+    },
+    {
+        "id": 128500,
+        "title": "Clozapine"
+    },
+    {
+        "id": 928514,
+        "title": "Coagulation Factor IX Recombinant"
+    },
+    {
+        "id": 928471,
+        "title": "Coagulation Factor VIIa"
+    },
+    {
+        "id": 128750,
+        "title": "Coal Tar"
+    },
+    {
+        "id": 930874,
+        "title": "Cobicistat"
+    },
+    {
+        "id": 129810,
+        "title": "Cocaine Hydrochloride"
+    },
+    {
+        "id": 265100,
+        "title": "Codeine Phosphate/Guaifenesin"
+    },
+    {
+        "id": 130970,
+        "title": "Codeine Sulfate"
+    },
+    {
+        "id": 132650,
+        "title": "Colchicine"
+    },
+    {
+        "id": 925384,
+        "title": "Colesevelam Hydrochloride"
+    },
+    {
+        "id": 930442,
+        "title": "Colestilan"
+    },
+    {
+        "id": 133130,
+        "title": "Colestipol Hydrochloride"
+    },
+    {
+        "id": 133390,
+        "title": "Colistimethate Sodium"
+    },
+    {
+        "id": 133500,
+        "title": "Collagenase"
+    },
+    {
+        "id": 929586,
+        "title": "Collagenase, Clostridium histolyticum"
+    },
+    {
+        "id": 928512,
+        "title": "Conivaptan Hydrochloride"
+    },
+    {
+        "id": 214370,
+        "title": "Conjugated Estrogens"
+    },
+    {
+        "id": 924953,
+        "title": "Conjugated Estrogens Synthetic A"
+    },
+    {
+        "id": 928376,
+        "title": "Conjugated Estrogens Synthetic B"
+    },
+    {
+        "id": 930799,
+        "title": "Conjugated Estrogens/Bazedoxifene Acetate"
+    },
+    {
+        "id": 923256,
+        "title": "Conjugated Estrogens/Medroxyprogesterone Acetate"
+    },
+    {
+        "id": 930364,
+        "title": "Corifollitropin Alfa"
+    },
+    {
+        "id": 142605,
+        "title": "Corticotropin"
+    },
+    {
+        "id": 142880,
+        "title": "Cortisone Acetate"
+    },
+    {
+        "id": 144350,
+        "title": "Cosyntropin"
+    },
+    {
+        "id": 930004,
+        "title": "Crizotinib"
+    },
+    {
+        "id": 930357,
+        "title": "Crofelemer"
+    },
+    {
+        "id": 147598,
+        "title": "Cromolyn Sodium"
+    },
+    {
+        "id": 147935,
+        "title": "Crotamiton"
+    },
+    {
+        "id": 665540,
+        "title": "Cyanocobalamin"
+    },
+    {
+        "id": 151425,
+        "title": "Cyclobenzaprine Hydrochloride"
+    },
+    {
+        "id": 151580,
+        "title": "Cyclopentolate Hydrochloride"
+    },
+    {
+        "id": 151588,
+        "title": "Cyclophosphamide"
+    },
+    {
+        "id": 151595,
+        "title": "Cycloserine"
+    },
+    {
+        "id": 151625,
+        "title": "Cyclosporine"
+    },
+    {
+        "id": 927997,
+        "title": "Cyclosporine, Modified"
+    },
+    {
+        "id": 152195,
+        "title": "Cyproheptadine Hydrochloride"
+    },
+    {
+        "id": 922404,
+        "title": "Cysteamine Bitartrate"
+    },
+    {
+        "id": 930152,
+        "title": "Cysteamine Hydrochloride"
+    },
+    {
+        "id": 152585,
+        "title": "Cytarabine"
+    },
+    {
+        "id": 924984,
+        "title": "Cytarabine Liposome"
+    },
+    {
+        "id": 153000,
+        "title": "Cytomegalovirus Immune Globulin, Human"
+    },
+    {
+        "id": 930440,
+        "title": "DTaP, Hepatitis B, Poliomyelitis, H. influenzae type B"
+    },
+    {
+        "id": 929742,
+        "title": "Dabigatran Etexilate Mesylate"
+    },
+    {
+        "id": 930523,
+        "title": "Dabrafenib Mesylate"
+    },
+    {
+        "id": 154220,
+        "title": "Dacarbazine"
+    },
+    {
+        "id": 931054,
+        "title": "Daclatasvir"
+    },
+    {
+        "id": 154320,
+        "title": "Dactinomycin"
+    },
+    {
+        "id": 930963,
+        "title": "Dalbavancin"
+    },
+    {
+        "id": 929568,
+        "title": "Dalfampridine"
+    },
+    {
+        "id": 923387,
+        "title": "Dalteparin Sodium"
+    },
+    {
+        "id": 923631,
+        "title": "Danaparoid Sodium"
+    },
+    {
+        "id": 155890,
+        "title": "Danazol"
+    },
+    {
+        "id": 156830,
+        "title": "Dantrolene Sodium"
+    },
+    {
+        "id": 930870,
+        "title": "Dapagliflozin Propanediol"
+    },
+    {
+        "id": 930917,
+        "title": "Dapagliflozin Propanediol/Metformin Hydrochloride"
+    },
+    {
+        "id": 156932,
+        "title": "Dapsone"
+    },
+    {
+        "id": 927900,
+        "title": "Daptomycin"
+    },
+    {
+        "id": 926699,
+        "title": "Darbepoetin Alfa"
+    },
+    {
+        "id": 928355,
+        "title": "Darifenacin Hydrobromide"
+    },
+    {
+        "id": 929046,
+        "title": "Darunavir Ethanolate"
+    },
+    {
+        "id": 931317,
+        "title": "Darunavir/Cobicistat"
+    },
+    {
+        "id": 931322,
+        "title": "Dasabuvir"
+    },
+    {
+        "id": 928563,
+        "title": "Dasatinib"
+    },
+    {
+        "id": 923600,
+        "title": "Daunorubicin Citrate Liposome"
+    },
+    {
+        "id": 158010,
+        "title": "Daunorubicin Hydrochloride"
+    },
+    {
+        "id": 928545,
+        "title": "Decitabine"
+    },
+    {
+        "id": 928463,
+        "title": "Deferasirox"
+    },
+    {
+        "id": 930027,
+        "title": "Deferiprone"
+    },
+    {
+        "id": 170320,
+        "title": "Deferoxamine Mesylate"
+    },
+    {
+        "id": 929264,
+        "title": "Degarelix Acetate"
+    },
+    {
+        "id": 930951,
+        "title": "Delamanid"
+    },
+    {
+        "id": 924233,
+        "title": "Delavirdine Mesylate"
+    },
+    {
+        "id": 163685,
+        "title": "Demeclocycline Hydrochloride"
+    },
+    {
+        "id": 929634,
+        "title": "Denosumab"
+    },
+    {
+        "id": 922196,
+        "title": "Desflurane"
+    },
+    {
+        "id": 170370,
+        "title": "Desipramine Hydrochloride"
+    },
+    {
+        "id": 929594,
+        "title": "Desirudin"
+    },
+    {
+        "id": 926845,
+        "title": "Desloratadine"
+    },
+    {
+        "id": 928386,
+        "title": "Desloratadine/Pseudoephedrine Sulfate"
+    },
+    {
+        "id": 170465,
+        "title": "Desmopressin Acetate"
+    },
+    {
+        "id": 170480,
+        "title": "Desogestrel/Ethinyl Estradiol"
+    },
+    {
+        "id": 170490,
+        "title": "Desonide"
+    },
+    {
+        "id": 170550,
+        "title": "Desoximetasone"
+    },
+    {
+        "id": 928217,
+        "title": "Desoxycholic Acid"
+    },
+    {
+        "id": 930561,
+        "title": "Desvenlafaxine"
+    },
+    {
+        "id": 929000,
+        "title": "Desvenlafaxine Succinate"
+    },
+    {
+        "id": 171860,
+        "title": "Dexamethasone"
+    },
+    {
+        "id": 171870,
+        "title": "Dexamethasone Sodium Phosphate"
+    },
+    {
+        "id": 172410,
+        "title": "Dexchlorpheniramine Maleate"
+    },
+    {
+        "id": 929276,
+        "title": "Dexlansoprazole"
+    },
+    {
+        "id": 925159,
+        "title": "Dexmedetomidine Hydrochloride"
+    },
+    {
+        "id": 926825,
+        "title": "Dexmethylphenidate Hydrochloride"
+    },
+    {
+        "id": 928861,
+        "title": "Dexrazoxane Hydrochloride"
+    },
+    {
+        "id": 173360,
+        "title": "Dextran"
+    },
+    {
+        "id": 173630,
+        "title": "Dextroamphetamine Sulfate"
+    },
+    {
+        "id": 926833,
+        "title": "Dextroamphetamine/Amphetamine"
+    },
+    {
+        "id": 174080,
+        "title": "Dextromethorphan Hydrobromide"
+    },
+    {
+        "id": 924055,
+        "title": "Dextromethorphan Polistirex"
+    },
+    {
+        "id": 929750,
+        "title": "Dextromethorphan hydrobromide/Quinidine sulfate"
+    },
+    {
+        "id": 174350,
+        "title": "Dextrose"
+    },
+    {
+        "id": 176900,
+        "title": "Diatrizoate Meglumine"
+    },
+    {
+        "id": 176910,
+        "title": "Diatrizoate Meglumine/Diatrizoate Sodium"
+    },
+    {
+        "id": 176920,
+        "title": "Diatrizoate Sodium"
+    },
+    {
+        "id": 176990,
+        "title": "Diazepam"
+    },
+    {
+        "id": 177060,
+        "title": "Diazoxide"
+    },
+    {
+        "id": 930333,
+        "title": "Dibotermin Alfa"
+    },
+    {
+        "id": 177200,
+        "title": "Dibucaine"
+    },
+    {
+        "id": 930809,
+        "title": "Diclofenac"
+    },
+    {
+        "id": 928929,
+        "title": "Diclofenac Epolamine"
+    },
+    {
+        "id": 922197,
+        "title": "Diclofenac Potassium"
+    },
+    {
+        "id": 178000,
+        "title": "Diclofenac Sodium"
+    },
+    {
+        "id": 924458,
+        "title": "Diclofenac Sodium/Misoprostol"
+    },
+    {
+        "id": 178020,
+        "title": "Dicloxacillin Sodium"
+    },
+    {
+        "id": 178403,
+        "title": "Dicyclomine Hydrochloride"
+    },
+    {
+        "id": 178425,
+        "title": "Didanosine"
+    },
+    {
+        "id": 178900,
+        "title": "Diethylpropion Hydrochloride"
+    },
+    {
+        "id": 179000,
+        "title": "Difenoxin Hydrochloride/Atropine Sulfate"
+    },
+    {
+        "id": 179113,
+        "title": "Diflorasone Diacetate"
+    },
+    {
+        "id": 179115,
+        "title": "Diflunisal"
+    },
+    {
+        "id": 929054,
+        "title": "Difluprednate"
+    },
+    {
+        "id": 179990,
+        "title": "Digoxin"
+    },
+    {
+        "id": 180000,
+        "title": "Digoxin Immune Fab (Ovine)"
+    },
+    {
+        "id": 180135,
+        "title": "Dihydroergotamine Mesylate"
+    },
+    {
+        "id": 180230,
+        "title": "Dihydrotachysterol"
+    },
+    {
+        "id": 180270,
+        "title": "Dihydroxyacetone"
+    },
+    {
+        "id": 180873,
+        "title": "Diltiazem Hydrochloride"
+    },
+    {
+        "id": 181190,
+        "title": "Dimenhydrinate"
+    },
+    {
+        "id": 181240,
+        "title": "Dimercaprol"
+    },
+    {
+        "id": 929075,
+        "title": "Dimethyl Fumarate"
+    },
+    {
+        "id": 181450,
+        "title": "Dimethyl Sulfoxide"
+    },
+    {
+        "id": 181600,
+        "title": "Dinoprostone"
+    },
+    {
+        "id": 931367,
+        "title": "Dinutuximab"
+    },
+    {
+        "id": 183290,
+        "title": "Diphenhydramine Hydrochloride"
+    },
+    {
+        "id": 183335,
+        "title": "Diphenoxylate Hydrochloride/Atropine Sulfate"
+    },
+    {
+        "id": 924143,
+        "title": "Diphtheria, Tetanus, Acellular Pertussis Vaccine"
+    },
+    {
+        "id": 930439,
+        "title": "Diphtheria, Tetanus, Pertussis, Hepatitis B Vaccine"
+    },
+    {
+        "id": 928469,
+        "title": "Diphtheria, Tetanus, Pertussis, Hepatitis B, and Polio Vaccine"
+    },
+    {
+        "id": 930622,
+        "title": "Diphtheria, Tetanus, Pertussis, Poliovirus, and Hib Vaccine"
+    },
+    {
+        "id": 928555,
+        "title": "Diphtheria, Tetanus, Pertussis, and Poliovirus Vaccine"
+    },
+    {
+        "id": 183610,
+        "title": "Dipivefrin Hydrochloride"
+    },
+    {
+        "id": 183790,
+        "title": "Dipyridamole"
+    },
+    {
+        "id": 184330,
+        "title": "Disopyramide Phosphate"
+    },
+    {
+        "id": 184770,
+        "title": "Disulfiram"
+    },
+    {
+        "id": 185285,
+        "title": "Divalproex Sodium"
+    },
+    {
+        "id": 185600,
+        "title": "Dobutamine Hydrochloride"
+    },
+    {
+        "id": 923610,
+        "title": "Docetaxel"
+    },
+    {
+        "id": 925434,
+        "title": "Docosanol"
+    },
+    {
+        "id": 186280,
+        "title": "Docusate Sodium"
+    },
+    {
+        "id": 925165,
+        "title": "Dofetilide"
+    },
+    {
+        "id": 924383,
+        "title": "Dolasetron Mesylate"
+    },
+    {
+        "id": 930754,
+        "title": "Dolutegravir Sodium"
+    },
+    {
+        "id": 923634,
+        "title": "Domperidone"
+    },
+    {
+        "id": 924060,
+        "title": "Donepezil Hydrochloride"
+    },
+    {
+        "id": 188945,
+        "title": "Dopamine Hydrochloride"
+    },
+    {
+        "id": 928897,
+        "title": "Doripenem"
+    },
+    {
+        "id": 922220,
+        "title": "Dornase Alfa"
+    },
+    {
+        "id": 923328,
+        "title": "Dorzolamide Hydrochloride"
+    },
+    {
+        "id": 924713,
+        "title": "Dorzolamide Hydrochloride/Timolol Maleate"
+    },
+    {
+        "id": 190571,
+        "title": "Doxacurium Chloride"
+    },
+    {
+        "id": 190618,
+        "title": "Doxapram Hydrochloride"
+    },
+    {
+        "id": 190654,
+        "title": "Doxazosin Mesylate"
+    },
+    {
+        "id": 190675,
+        "title": "Doxepin Hydrochloride"
+    },
+    {
+        "id": 925028,
+        "title": "Doxercalciferol"
+    },
+    {
+        "id": 190783,
+        "title": "Doxorubicin Hydrochloride"
+    },
+    {
+        "id": 924052,
+        "title": "Doxorubicin Hydrochloride Liposome"
+    },
+    {
+        "id": 922401,
+        "title": "Doxycycline"
+    },
+    {
+        "id": 922400,
+        "title": "Doxycycline Calcium"
+    },
+    {
+        "id": 190890,
+        "title": "Doxycycline Hyclate"
+    },
+    {
+        "id": 190930,
+        "title": "Doxylamine Succinate"
+    },
+    {
+        "id": 926502,
+        "title": "Doxylamine succinate/Pyridoxine hydrochloride"
+    },
+    {
+        "id": 192630,
+        "title": "Dronabinol"
+    },
+    {
+        "id": 929424,
+        "title": "Dronedarone Hydrochloride"
+    },
+    {
+        "id": 192650,
+        "title": "Droperidol"
+    },
+    {
+        "id": 928628,
+        "title": "Drospirenone/Estradiol"
+    },
+    {
+        "id": 926423,
+        "title": "Drospirenone/Ethinyl Estradiol"
+    },
+    {
+        "id": 930582,
+        "title": "Drospirenone/Ethinyl Estradiol/Levomefolate Calcium and Levomefolate Calcium"
+    },
+    {
+        "id": 930897,
+        "title": "Droxidopa"
+    },
+    {
+        "id": 931053,
+        "title": "Dulaglutide"
+    },
+    {
+        "id": 928196,
+        "title": "Duloxetine Hydrochloride"
+    },
+    {
+        "id": 927022,
+        "title": "Dutasteride"
+    },
+    {
+        "id": 929641,
+        "title": "Dutasteride/Tamsulosin Hydrochloride"
+    },
+    {
+        "id": 197995,
+        "title": "Dyclonine Hydrochloride"
+    },
+    {
+        "id": 198660,
+        "title": "Dyphylline"
+    },
+    {
+        "id": 929538,
+        "title": "Ecallantide"
+    },
+    {
+        "id": 200700,
+        "title": "Echothiophate Iodide"
+    },
+    {
+        "id": 200840,
+        "title": "Econazole Nitrate"
+    },
+    {
+        "id": 928764,
+        "title": "Eculizumab"
+    },
+    {
+        "id": 201400,
+        "title": "Edetate Calcium Disodium"
+    },
+    {
+        "id": 201435,
+        "title": "Edetate Disodium"
+    },
+    {
+        "id": 931332,
+        "title": "Edoxaban"
+    },
+    {
+        "id": 201580,
+        "title": "Edrophonium Chloride"
+    },
+    {
+        "id": 924786,
+        "title": "Efavirenz"
+    },
+    {
+        "id": 928568,
+        "title": "Efavirenz/Emtricitabine/Tenofovir"
+    },
+    {
+        "id": 930984,
+        "title": "Efinaconazole"
+    },
+    {
+        "id": 923382,
+        "title": "Eflornithine Hydrochloride"
+    },
+    {
+        "id": 927678,
+        "title": "Eletriptan Hydrobromide"
+    },
+    {
+        "id": 931026,
+        "title": "Eliglustat"
+    },
+    {
+        "id": 930895,
+        "title": "Elosulfase Alfa"
+    },
+    {
+        "id": 929242,
+        "title": "Eltrombopag Olamine"
+    },
+    {
+        "id": 931437,
+        "title": "Eluxadoline"
+    },
+    {
+        "id": 930882,
+        "title": "Elvitegravir"
+    },
+    {
+        "id": 930276,
+        "title": "Elvitegravir/Cobicistat/Emtricitabine/Tenofovir"
+    },
+    {
+        "id": 924690,
+        "title": "Emedastine Difumarate"
+    },
+    {
+        "id": 930993,
+        "title": "Empagliflozin"
+    },
+    {
+        "id": 931344,
+        "title": "Empagliflozin/Linagliptin"
+    },
+    {
+        "id": 931444,
+        "title": "Empagliflozin/Metformin Hydrochloride"
+    },
+    {
+        "id": 927781,
+        "title": "Emtricitabine"
+    },
+    {
+        "id": 929997,
+        "title": "Emtricitabine/Rilpivirine/Tenofovir"
+    },
+    {
+        "id": 928216,
+        "title": "Emtricitabine/Tenofovir Disoproxil Fumarate"
+    },
+    {
+        "id": 205625,
+        "title": "Enalapril Maleate"
+    },
+    {
+        "id": 207680,
+        "title": "Enalapril Maleate/Hydrochlorothiazide"
+    },
+    {
+        "id": 205628,
+        "title": "Enalaprilat"
+    },
+    {
+        "id": 208340,
+        "title": "Enflurane"
+    },
+    {
+        "id": 927717,
+        "title": "Enfuvirtide"
+    },
+    {
+        "id": 208370,
+        "title": "Enoxaparin Sodium"
+    },
+    {
+        "id": 925042,
+        "title": "Entacapone"
+    },
+    {
+        "id": 928395,
+        "title": "Entecavir"
+    },
+    {
+        "id": 930281,
+        "title": "Enzalutamide"
+    },
+    {
+        "id": 923504,
+        "title": "Ephedrine"
+    },
+    {
+        "id": 921980,
+        "title": "Ephedrine Sulfate"
+    },
+    {
+        "id": 927952,
+        "title": "Epinastine Hydrochloride"
+    },
+    {
+        "id": 209630,
+        "title": "Epinephrine"
+    },
+    {
+        "id": 925037,
+        "title": "Epirubicin Hydrochloride"
+    },
+    {
+        "id": 927733,
+        "title": "Eplerenone"
+    },
+    {
+        "id": 210070,
+        "title": "Epoetin Alfa"
+    },
+    {
+        "id": 930368,
+        "title": "Epoetin Beta"
+    },
+    {
+        "id": 930419,
+        "title": "Epoetin Theta"
+    },
+    {
+        "id": 930418,
+        "title": "Epoetin Zeta"
+    },
+    {
+        "id": 923429,
+        "title": "Epoprostenol Sodium"
+    },
+    {
+        "id": 925031,
+        "title": "Eprosartan Mesylate"
+    },
+    {
+        "id": 927606,
+        "title": "Eprosartan Mesylate/Hydrochlorothiazide"
+    },
+    {
+        "id": 924731,
+        "title": "Eptifibatide"
+    },
+    {
+        "id": 930425,
+        "title": "Eptotermin Alfa"
+    },
+    {
+        "id": 210770,
+        "title": "Ergocalciferol"
+    },
+    {
+        "id": 210800,
+        "title": "Ergoloid Mesylates"
+    },
+    {
+        "id": 210920,
+        "title": "Ergonovine Maleate"
+    },
+    {
+        "id": 922302,
+        "title": "Ergotamine Tartrate"
+    },
+    {
+        "id": 929757,
+        "title": "Eribulin Mesylate"
+    },
+    {
+        "id": 930518,
+        "title": "Erlotinib Hydrochloride"
+    },
+    {
+        "id": 926936,
+        "title": "Ertapenem Sodium"
+    },
+    {
+        "id": 211718,
+        "title": "Erythromycin"
+    },
+    {
+        "id": 211750,
+        "title": "Erythromycin Ethylsuccinate"
+    },
+    {
+        "id": 211754,
+        "title": "Erythromycin Ethylsuccinate/Sulfisoxazole Acetyl"
+    },
+    {
+        "id": 211753,
+        "title": "Erythromycin Lactobionate"
+    },
+    {
+        "id": 211720,
+        "title": "Erythromycin Stearate"
+    },
+    {
+        "id": 211719,
+        "title": "Erythromycin/Benzoyl Peroxide"
+    },
+    {
+        "id": 926990,
+        "title": "Escitalopram Oxalate"
+    },
+    {
+        "id": 930358,
+        "title": "Eslicarbazepine Acetate"
+    },
+    {
+        "id": 212410,
+        "title": "Esmolol Hydrochloride"
+    },
+    {
+        "id": 926127,
+        "title": "Esomeprazole Magnesium"
+    },
+    {
+        "id": 928397,
+        "title": "Esomeprazole Sodium"
+    },
+    {
+        "id": 930752,
+        "title": "Esomeprazole Strontium"
+    },
+    {
+        "id": 213000,
+        "title": "Estazolam"
+    },
+    {
+        "id": 214400,
+        "title": "Esterified Estrogens"
+    },
+    {
+        "id": 214440,
+        "title": "Esterified Estrogens/Methyltestosterone"
+    },
+    {
+        "id": 213530,
+        "title": "Estradiol"
+    },
+    {
+        "id": 927896,
+        "title": "Estradiol Acetate"
+    },
+    {
+        "id": 213620,
+        "title": "Estradiol Cypionate"
+    },
+    {
+        "id": 925408,
+        "title": "Estradiol Cypionate/Medroxyprogesterone Acetate"
+    },
+    {
+        "id": 213680,
+        "title": "Estradiol Valerate"
+    },
+    {
+        "id": 931280,
+        "title": "Estradiol Valerate and Estradiol Valerate/Dienogest"
+    },
+    {
+        "id": 927967,
+        "title": "Estradiol/Levonorgestrel"
+    },
+    {
+        "id": 923743,
+        "title": "Estradiol/Norethindrone Acetate"
+    },
+    {
+        "id": 930603,
+        "title": "Estradiol/Norgestimate"
+    },
+    {
+        "id": 213785,
+        "title": "Estramustine Phosphate Sodium"
+    },
+    {
+        "id": 214990,
+        "title": "Estropipate"
+    },
+    {
+        "id": 928351,
+        "title": "Eszopiclone"
+    },
+    {
+        "id": 924808,
+        "title": "Etanercept"
+    },
+    {
+        "id": 923348,
+        "title": "Ethacrynate Sodium"
+    },
+    {
+        "id": 215390,
+        "title": "Ethacrynic Acid"
+    },
+    {
+        "id": 215400,
+        "title": "Ethambutol Hydrochloride"
+    },
+    {
+        "id": 215455,
+        "title": "Ethanolamine Oleate"
+    },
+    {
+        "id": 216230,
+        "title": "Ethinyl Estradiol/Ethynodiol Diacetate"
+    },
+    {
+        "id": 926976,
+        "title": "Ethinyl Estradiol/Etonogestrel"
+    },
+    {
+        "id": 337215,
+        "title": "Ethinyl Estradiol/Levonorgestrel"
+    },
+    {
+        "id": 926960,
+        "title": "Ethinyl Estradiol/Norelgestromin"
+    },
+    {
+        "id": 410195,
+        "title": "Ethinyl Estradiol/Norethindrone"
+    },
+    {
+        "id": 410495,
+        "title": "Ethinyl Estradiol/Norethindrone Acetate"
+    },
+    {
+        "id": 410340,
+        "title": "Ethinyl Estradiol/Norgestimate"
+    },
+    {
+        "id": 410368,
+        "title": "Ethinyl Estradiol/Norgestrel"
+    },
+    {
+        "id": 215830,
+        "title": "Ethiodized Oil"
+    },
+    {
+        "id": 215850,
+        "title": "Ethionamide"
+    },
+    {
+        "id": 216017,
+        "title": "Ethosuximide"
+    },
+    {
+        "id": 216020,
+        "title": "Ethotoin"
+    },
+    {
+        "id": 216080,
+        "title": "Ethyl Chloride"
+    },
+    {
+        "id": 201460,
+        "title": "Etidronate Disodium"
+    },
+    {
+        "id": 216300,
+        "title": "Etodolac"
+    },
+    {
+        "id": 216660,
+        "title": "Etomidate"
+    },
+    {
+        "id": 928569,
+        "title": "Etonogestrel"
+    },
+    {
+        "id": 216680,
+        "title": "Etoposide"
+    },
+    {
+        "id": 923611,
+        "title": "Etoposide Phosphate"
+    },
+    {
+        "id": 928973,
+        "title": "Etravirine"
+    },
+    {
+        "id": 929332,
+        "title": "Everolimus"
+    },
+    {
+        "id": 925068,
+        "title": "Exemestane"
+    },
+    {
+        "id": 928400,
+        "title": "Exenatide"
+    },
+    {
+        "id": 927021,
+        "title": "Ezetimibe"
+    },
+    {
+        "id": 930508,
+        "title": "Ezetimibe/Atorvastatin Calcium"
+    },
+    {
+        "id": 928170,
+        "title": "Ezetimibe/Simvastatin"
+    },
+    {
+        "id": 929976,
+        "title": "Ezogabine"
+    },
+    {
+        "id": 222490,
+        "title": "Factor IX Complex Human"
+    },
+    {
+        "id": 930922,
+        "title": "Factor IX Fc Fusion Protein Recombinant"
+    },
+    {
+        "id": 926613,
+        "title": "Factor IX Human, Purified"
+    },
+    {
+        "id": 929808,
+        "title": "Factor XIII Human"
+    },
+    {
+        "id": 930407,
+        "title": "Factor XIII Recombinant"
+    },
+    {
+        "id": 922313,
+        "title": "Famciclovir"
+    },
+    {
+        "id": 222840,
+        "title": "Famotidine"
+    },
+    {
+        "id": 223880,
+        "title": "Fat Emulsion"
+    },
+    {
+        "id": 929283,
+        "title": "Febuxostat"
+    },
+    {
+        "id": 921991,
+        "title": "Felbamate"
+    },
+    {
+        "id": 225000,
+        "title": "Felodipine"
+    },
+    {
+        "id": 924706,
+        "title": "Fenofibrate"
+    },
+    {
+        "id": 926984,
+        "title": "Fenofibrate, Micronized"
+    },
+    {
+        "id": 930805,
+        "title": "Fenofibrate/Simvastatin"
+    },
+    {
+        "id": 929250,
+        "title": "Fenofibric Acid"
+    },
+    {
+        "id": 924374,
+        "title": "Fenoldopam Mesylate"
+    },
+    {
+        "id": 226290,
+        "title": "Fenoprofen Calcium"
+    },
+    {
+        "id": 226295,
+        "title": "Fentanyl"
+    },
+    {
+        "id": 226300,
+        "title": "Fentanyl Citrate"
+    },
+    {
+        "id": 930749,
+        "title": "Ferric Carboxymaltose"
+    },
+    {
+        "id": 922546,
+        "title": "Ferric Citrate"
+    },
+    {
+        "id": 931341,
+        "title": "Ferric Pyrophosphate Citrate"
+    },
+    {
+        "id": 929422,
+        "title": "Ferumoxytol"
+    },
+    {
+        "id": 929229,
+        "title": "Fesoterodine Fumarate"
+    },
+    {
+        "id": 923709,
+        "title": "Fexofenadine Hydrochloride"
+    },
+    {
+        "id": 924405,
+        "title": "Fexofenadine Hydrochloride/Pseudoephedrine Hydrochloride"
+    },
+    {
+        "id": 927969,
+        "title": "Fibrinogen"
+    },
+    {
+        "id": 930687,
+        "title": "Fibrinogen/Aprotinin and Thrombin/Calcium Chloride"
+    },
+    {
+        "id": 929684,
+        "title": "Fibrinogen/Thrombin, Human"
+    },
+    {
+        "id": 929929,
+        "title": "Fidaxomicin"
+    },
+    {
+        "id": 232120,
+        "title": "Filgrastim"
+    },
+    {
+        "id": 931379,
+        "title": "Filgrastim-sndz"
+    },
+    {
+        "id": 931319,
+        "title": "Finafloxacin"
+    },
+    {
+        "id": 232200,
+        "title": "Finasteride"
+    },
+    {
+        "id": 929699,
+        "title": "Fingolimod Hydrochloride"
+    },
+    {
+        "id": 928030,
+        "title": "Flavocoxid"
+    },
+    {
+        "id": 234030,
+        "title": "Flavoxate Hydrochloride"
+    },
+    {
+        "id": 234185,
+        "title": "Flecainide Acetate"
+    },
+    {
+        "id": 930916,
+        "title": "Florbetaben F 18"
+    },
+    {
+        "id": 930188,
+        "title": "Florbetapir F-18"
+    },
+    {
+        "id": 235680,
+        "title": "Floxuridine"
+    },
+    {
+        "id": 235757,
+        "title": "Fluconazole"
+    },
+    {
+        "id": 235775,
+        "title": "Flucytosine"
+    },
+    {
+        "id": 235777,
+        "title": "Fludarabine Phosphate"
+    },
+    {
+        "id": 925134,
+        "title": "Fludeoxyglucose F 18"
+    },
+    {
+        "id": 235780,
+        "title": "Fludrocortisone Acetate"
+    },
+    {
+        "id": 235793,
+        "title": "Flumazenil"
+    },
+    {
+        "id": 235798,
+        "title": "Flunisolide"
+    },
+    {
+        "id": 235810,
+        "title": "Fluocinolone Acetonide"
+    },
+    {
+        "id": 926952,
+        "title": "Fluocinolone Acetonide/Hydroquinone/Tretinoin"
+    },
+    {
+        "id": 235830,
+        "title": "Fluocinonide"
+    },
+    {
+        "id": 236090,
+        "title": "Fluorescein Sodium"
+    },
+    {
+        "id": 236355,
+        "title": "Fluorometholone"
+    },
+    {
+        "id": 236390,
+        "title": "Fluorouracil"
+    },
+    {
+        "id": 236415,
+        "title": "Fluoxetine Hydrochloride"
+    },
+    {
+        "id": 236425,
+        "title": "Fluoxymesterone"
+    },
+    {
+        "id": 236428,
+        "title": "Fluphenazine Decanoate"
+    },
+    {
+        "id": 236430,
+        "title": "Fluphenazine Hydrochloride"
+    },
+    {
+        "id": 236500,
+        "title": "Flurandrenolide"
+    },
+    {
+        "id": 236575,
+        "title": "Flurazepam Hydrochloride"
+    },
+    {
+        "id": 236589,
+        "title": "Flurbiprofen"
+    },
+    {
+        "id": 236590,
+        "title": "Flurbiprofen Sodium"
+    },
+    {
+        "id": 236685,
+        "title": "Flutamide"
+    },
+    {
+        "id": 930810,
+        "title": "Flutemetamol F 18"
+    },
+    {
+        "id": 928781,
+        "title": "Fluticasone Furoate"
+    },
+    {
+        "id": 930514,
+        "title": "Fluticasone Furoate/Vilanterol Trifenatate"
+    },
+    {
+        "id": 236850,
+        "title": "Fluticasone Propionate"
+    },
+    {
+        "id": 926175,
+        "title": "Fluticasone Propionate/Salmeterol Xinafoate"
+    },
+    {
+        "id": 922289,
+        "title": "Fluvastatin Sodium"
+    },
+    {
+        "id": 922413,
+        "title": "Fluvoxamine Maleate"
+    },
+    {
+        "id": 237230,
+        "title": "Folic Acid"
+    },
+    {
+        "id": 367260,
+        "title": "Follicle Stimulating Hormone/Luteinizing Hormone"
+    },
+    {
+        "id": 924386,
+        "title": "Follitropin Alfa"
+    },
+    {
+        "id": 930409,
+        "title": "Follitropin Alfa/Lutropin Alfa"
+    },
+    {
+        "id": 924372,
+        "title": "Follitropin Beta"
+    },
+    {
+        "id": 925212,
+        "title": "Follitropin Beta/Ganirelix Acetate"
+    },
+    {
+        "id": 924408,
+        "title": "Fomepizole"
+    },
+    {
+        "id": 924824,
+        "title": "Fomivirsen Sodium"
+    },
+    {
+        "id": 926910,
+        "title": "Fondaparinux Sodium"
+    },
+    {
+        "id": 924034,
+        "title": "Formoterol Fumarate"
+    },
+    {
+        "id": 928255,
+        "title": "Fosamprenavir Calcium"
+    },
+    {
+        "id": 928981,
+        "title": "Fosaprepitant  Dimeglumine"
+    },
+    {
+        "id": 239200,
+        "title": "Foscarnet Sodium"
+    },
+    {
+        "id": 924221,
+        "title": "Fosfomycin Tromethamine"
+    },
+    {
+        "id": 239400,
+        "title": "Fosinopril Sodium"
+    },
+    {
+        "id": 925195,
+        "title": "Fosinopril Sodium/Hydrochlorothiazide"
+    },
+    {
+        "id": 923833,
+        "title": "Fosphenytoin Sodium"
+    },
+    {
+        "id": 929247,
+        "title": "Fospropofol Disodium"
+    },
+    {
+        "id": 926967,
+        "title": "Frovatriptan Succinate"
+    },
+    {
+        "id": 926965,
+        "title": "Fulvestrant"
+    },
+    {
+        "id": 245190,
+        "title": "Furosemide"
+    },
+    {
+        "id": 922204,
+        "title": "Gabapentin"
+    },
+    {
+        "id": 929848,
+        "title": "Gabapentin Enacarbil"
+    },
+    {
+        "id": 928353,
+        "title": "Gadobenate Dimeglumine"
+    },
+    {
+        "id": 929822,
+        "title": "Gadobutrol"
+    },
+    {
+        "id": 922262,
+        "title": "Gadodiamide"
+    },
+    {
+        "id": 929459,
+        "title": "Gadofosveset Trisodium"
+    },
+    {
+        "id": 246140,
+        "title": "Gadopentetate Dimeglumine"
+    },
+    {
+        "id": 930452,
+        "title": "Gadoterate Meglumine"
+    },
+    {
+        "id": 246250,
+        "title": "Gadoteridol"
+    },
+    {
+        "id": 925428,
+        "title": "Gadoversetamide"
+    },
+    {
+        "id": 929135,
+        "title": "Gadoxetate Disodium"
+    },
+    {
+        "id": 926182,
+        "title": "Galantamine Hydrobromide"
+    },
+    {
+        "id": 924414,
+        "title": "Gallium Citrate Ga 67"
+    },
+    {
+        "id": 928409,
+        "title": "Galsulfase"
+    },
+    {
+        "id": 923366,
+        "title": "Ganciclovir"
+    },
+    {
+        "id": 246850,
+        "title": "Ganciclovir Sodium"
+    },
+    {
+        "id": 927745,
+        "title": "Ganirelix Acetate"
+    },
+    {
+        "id": 925059,
+        "title": "Gatifloxacin"
+    },
+    {
+        "id": 923608,
+        "title": "Gemcitabine Hydrochloride"
+    },
+    {
+        "id": 249900,
+        "title": "Gemfibrozil"
+    },
+    {
+        "id": 927754,
+        "title": "Gemifloxacin Mesylate"
+    },
+    {
+        "id": 250830,
+        "title": "Gentamicin Sulfate"
+    },
+    {
+        "id": 250880,
+        "title": "Gentian Violet"
+    },
+    {
+        "id": 924219,
+        "title": "Glatiramer Acetate"
+    },
+    {
+        "id": 923529,
+        "title": "Glimepiride"
+    },
+    {
+        "id": 256750,
+        "title": "Glipizide"
+    },
+    {
+        "id": 927024,
+        "title": "Glipizide/Metformin Hydrochloride"
+    },
+    {
+        "id": 257300,
+        "title": "Glucagon Hydrochloride"
+    },
+    {
+        "id": 930095,
+        "title": "Glucarpidase"
+    },
+    {
+        "id": 923467,
+        "title": "Glucosamine Sulfate"
+    },
+    {
+        "id": 922551,
+        "title": "Glutamine"
+    },
+    {
+        "id": 258180,
+        "title": "Glyburide"
+    },
+    {
+        "id": 925378,
+        "title": "Glyburide/Metformin Hydrochloride"
+    },
+    {
+        "id": 930408,
+        "title": "Glycerol Phenylbutyrate"
+    },
+    {
+        "id": 258800,
+        "title": "Glycopyrrolate"
+    },
+    {
+        "id": 930866,
+        "title": "Glycopyrrolate/Indacaterol Maleate"
+    },
+    {
+        "id": 260060,
+        "title": "Gold Sodium Thiomalate"
+    },
+    {
+        "id": 929360,
+        "title": "Golimumab"
+    },
+    {
+        "id": 260965,
+        "title": "Gonadorelin Hydrochloride"
+    },
+    {
+        "id": 261100,
+        "title": "Goserelin Acetate"
+    },
+    {
+        "id": 929176,
+        "title": "Granisetron"
+    },
+    {
+        "id": 922292,
+        "title": "Granisetron Hydrochloride"
+    },
+    {
+        "id": 264169,
+        "title": "Griseofulvin, Microcrystalline"
+    },
+    {
+        "id": 264170,
+        "title": "Griseofulvin, Ultramicrocrystalline"
+    },
+    {
+        "id": 265090,
+        "title": "Guaifenesin"
+    },
+    {
+        "id": 927959,
+        "title": "Guaifenesin/Potassium Guaiacolsulfonate"
+    },
+    {
+        "id": 265170,
+        "title": "Guanabenz Acetate"
+    },
+    {
+        "id": 265173,
+        "title": "Guanadrel Sulfate"
+    },
+    {
+        "id": 265200,
+        "title": "Guanethidine Monosulfate"
+    },
+    {
+        "id": 265250,
+        "title": "Guanfacine Hydrochloride"
+    },
+    {
+        "id": 265370,
+        "title": "Guanidine Hydrochloride"
+    },
+    {
+        "id": 268045,
+        "title": "Haemophilus B Conjugate Vaccine"
+    },
+    {
+        "id": 924142,
+        "title": "Haemophilus B Conjugate and Hepatitis B Vaccine"
+    },
+    {
+        "id": 268590,
+        "title": "Halazepam"
+    },
+    {
+        "id": 268950,
+        "title": "Halcinonide"
+    },
+    {
+        "id": 269200,
+        "title": "Halobetasol Propionate"
+    },
+    {
+        "id": 269260,
+        "title": "Haloperidol"
+    },
+    {
+        "id": 269262,
+        "title": "Haloperidol Decanoate"
+    },
+    {
+        "id": 922191,
+        "title": "Haloperidol Lactate"
+    },
+    {
+        "id": 930530,
+        "title": "Hematopoietic Progenitor Cells, Cord Blood"
+    },
+    {
+        "id": 274400,
+        "title": "Hemin"
+    },
+    {
+        "id": 276980,
+        "title": "Heparin Sodium"
+    },
+    {
+        "id": 926422,
+        "title": "Hepatitis A Inactivated/Hepatitis B Recombinant Vaccine"
+    },
+    {
+        "id": 923279,
+        "title": "Hepatitis A Vaccine, Inactivated"
+    },
+    {
+        "id": 277200,
+        "title": "Hepatitis B Immune Globulin"
+    },
+    {
+        "id": 277226,
+        "title": "Hepatitis B Vaccine Recombinant"
+    },
+    {
+        "id": 925318,
+        "title": "Hetastarch/Lactated Electrolyte Solution"
+    },
+    {
+        "id": 279050,
+        "title": "Hetastarch/Sodium Chloride"
+    },
+    {
+        "id": 279305,
+        "title": "Hexachlorophene"
+    },
+    {
+        "id": 929635,
+        "title": "Hexaminolevulinate Hydrochloride"
+    },
+    {
+        "id": 283580,
+        "title": "Histamine Phosphate"
+    },
+    {
+        "id": 284920,
+        "title": "Histrelin Acetate"
+    },
+    {
+        "id": 286640,
+        "title": "Homatropine Hydrobromide"
+    },
+    {
+        "id": 291487,
+        "title": "Homatropine Methylbromide/Hydrocodone Bitartrate"
+    },
+    {
+        "id": 931316,
+        "title": "Human Papillomavirus 9-valent Vaccine, Recombinant"
+    },
+    {
+        "id": 929512,
+        "title": "Human Papillomavirus Recombinant Vaccine Bivalent (Types 16, 18)"
+    },
+    {
+        "id": 928560,
+        "title": "Human Papillomavirus Recombinant Vaccine Quadrivalent (Types 6, 11, 16, 18)"
+    },
+    {
+        "id": 556275,
+        "title": "Hyaluronate Sodium"
+    },
+    {
+        "id": 928028,
+        "title": "Hyaluronic Acid"
+    },
+    {
+        "id": 289285,
+        "title": "Hyaluronidase"
+    },
+    {
+        "id": 928535,
+        "title": "Hyaluronidase Human, Recombinant"
+    },
+    {
+        "id": 290630,
+        "title": "Hydralazine Hydrochloride"
+    },
+    {
+        "id": 290640,
+        "title": "Hydralazine Hydrochloride/Hydrochlorothiazide"
+    },
+    {
+        "id": 928431,
+        "title": "Hydralazine/Isosorbide Dinitrate"
+    },
+    {
+        "id": 291260,
+        "title": "Hydrochloric Acid"
+    },
+    {
+        "id": 291280,
+        "title": "Hydrochlorothiazide"
+    },
+    {
+        "id": 624240,
+        "title": "Hydrochlorothiazide/Triamterene"
+    },
+    {
+        "id": 923420,
+        "title": "Hydrocodone Bitartrate"
+    },
+    {
+        "id": 291485,
+        "title": "Hydrocodone Bitartrate/Acetaminophen"
+    },
+    {
+        "id": 922368,
+        "title": "Hydrocodone Bitartrate/Chlorpheniramine Maleate"
+    },
+    {
+        "id": 924365,
+        "title": "Hydrocodone Bitartrate/Ibuprofen"
+    },
+    {
+        "id": 291480,
+        "title": "Hydrocodone Polistirex/Chlorpheniramine Polistirex"
+    },
+    {
+        "id": 291483,
+        "title": "Hydrocodone bitartrate/Guaifenesin"
+    },
+    {
+        "id": 492829,
+        "title": "Hydrocodone bitartrate/Pseudoephedrine Hydrochloride"
+    },
+    {
+        "id": 927600,
+        "title": "Hydrocodone/Chlorpheniramine/Pseudoephedrine"
+    },
+    {
+        "id": 291590,
+        "title": "Hydrocortisone"
+    },
+    {
+        "id": 291740,
+        "title": "Hydrocortisone Acetate"
+    },
+    {
+        "id": 930826,
+        "title": "Hydrocortisone Acetate/Iodoquinol"
+    },
+    {
+        "id": 923292,
+        "title": "Hydrocortisone Acetate/Neomycin Sulfate/Polymyxin B Sulfate"
+    },
+    {
+        "id": 291825,
+        "title": "Hydrocortisone Sodium Succinate"
+    },
+    {
+        "id": 4192,
+        "title": "Hydrocortisone/Acetic Acid"
+    },
+    {
+        "id": 291990,
+        "title": "Hydrogen Peroxide"
+    },
+    {
+        "id": 292100,
+        "title": "Hydromorphone Hydrochloride"
+    },
+    {
+        "id": 292430,
+        "title": "Hydroquinone"
+    },
+    {
+        "id": 923998,
+        "title": "Hydroxocobalamin"
+    },
+    {
+        "id": 922190,
+        "title": "Hydroxyamphetamine/Tropicamide"
+    },
+    {
+        "id": 292825,
+        "title": "Hydroxychloroquine Sulfate"
+    },
+    {
+        "id": 292900,
+        "title": "Hydroxyprogesterone Caproate"
+    },
+    {
+        "id": 292960,
+        "title": "Hydroxyurea"
+    },
+    {
+        "id": 292975,
+        "title": "Hydroxyzine Hydrochloride"
+    },
+    {
+        "id": 292976,
+        "title": "Hydroxyzine Pamoate"
+    },
+    {
+        "id": 924385,
+        "title": "Hylan Polymers A and B"
+    },
+    {
+        "id": 294010,
+        "title": "Hyoscyamine Sulfate"
+    },
+    {
+        "id": 926977,
+        "title": "Hyoscyamine/Methenamine/Methylene Blue/Phenyl Salicylate/Na Phosphate"
+    },
+    {
+        "id": 922178,
+        "title": "Hypromellose"
+    },
+    {
+        "id": 928389,
+        "title": "Ibandronate Sodium"
+    },
+    {
+        "id": 927775,
+        "title": "Ibritumomab Tiuxetan"
+    },
+    {
+        "id": 930819,
+        "title": "Ibrutinib"
+    },
+    {
+        "id": 296975,
+        "title": "Ibuprofen"
+    },
+    {
+        "id": 928544,
+        "title": "Ibuprofen Lysine"
+    },
+    {
+        "id": 929886,
+        "title": "Ibuprofen/Famotidine"
+    },
+    {
+        "id": 923552,
+        "title": "Ibutilide Fumarate"
+    },
+    {
+        "id": 930003,
+        "title": "Icatibant Acetate"
+    },
+    {
+        "id": 927698,
+        "title": "Icodextrin"
+    },
+    {
+        "id": 930265,
+        "title": "Icosapent Ethyl"
+    },
+    {
+        "id": 297550,
+        "title": "Idarubicin Hydrochloride"
+    },
+    {
+        "id": 931009,
+        "title": "Idelalisib"
+    },
+    {
+        "id": 928570,
+        "title": "Idursulfase"
+    },
+    {
+        "id": 922087,
+        "title": "Ifosfamide"
+    },
+    {
+        "id": 929366,
+        "title": "Iloperidone"
+    },
+    {
+        "id": 928357,
+        "title": "Iloprost"
+    },
+    {
+        "id": 926420,
+        "title": "Imatinib Mesylate"
+    },
+    {
+        "id": 922307,
+        "title": "Imiglucerase"
+    },
+    {
+        "id": 298558,
+        "title": "Imipenem/Cilastatin"
+    },
+    {
+        "id": 298560,
+        "title": "Imipramine Hydrochloride"
+    },
+    {
+        "id": 298562,
+        "title": "Imipramine Pamoate"
+    },
+    {
+        "id": 924239,
+        "title": "Imiquimod"
+    },
+    {
+        "id": 298670,
+        "title": "Immune Globulin"
+    },
+    {
+        "id": 930750,
+        "title": "Immune Globulin Bovine"
+    },
+    {
+        "id": 931043,
+        "title": "Immune Globulin Human/Recombinant Human Hyaluronidase"
+    },
+    {
+        "id": 28550,
+        "title": "Inamrinone Lactate"
+    },
+    {
+        "id": 929674,
+        "title": "IncobotulinumtoxinA"
+    },
+    {
+        "id": 929970,
+        "title": "Indacaterol Maleate"
+    },
+    {
+        "id": 299255,
+        "title": "Indapamide"
+    },
+    {
+        "id": 923556,
+        "title": "Indinavir Sulfate"
+    },
+    {
+        "id": 924702,
+        "title": "Indium In 111 Capromab Pendetide"
+    },
+    {
+        "id": 925126,
+        "title": "Indium In 111 Oxyquinoline"
+    },
+    {
+        "id": 925125,
+        "title": "Indium In 111 Pentetate Disodium"
+    },
+    {
+        "id": 922353,
+        "title": "Indium In 111 Pentetreotide"
+    },
+    {
+        "id": 299580,
+        "title": "Indomethacin"
+    },
+    {
+        "id": 922386,
+        "title": "Indomethacin Sodium"
+    },
+    {
+        "id": 924781,
+        "title": "Infliximab"
+    },
+    {
+        "id": 300170,
+        "title": "Influenza Virus Vaccine (Subvirion)"
+    },
+    {
+        "id": 930388,
+        "title": "Influenza Virus Vaccine Recombinant"
+    },
+    {
+        "id": 927787,
+        "title": "Influenza Virus Vaccine, Live"
+    },
+    {
+        "id": 930097,
+        "title": "Ingenol Mebutate"
+    },
+    {
+        "id": 927927,
+        "title": "Insulin Aspart Protamine, Recombinant/Insulin Aspart, Recombinant"
+    },
+    {
+        "id": 927924,
+        "title": "Insulin Aspart, Recombinant"
+    },
+    {
+        "id": 930443,
+        "title": "Insulin Degludec"
+    },
+    {
+        "id": 930444,
+        "title": "Insulin Degludec/Insulin Aspart, Recombinant"
+    },
+    {
+        "id": 931315,
+        "title": "Insulin Degludec/Liraglutide"
+    },
+    {
+        "id": 928483,
+        "title": "Insulin Detemir"
+    },
+    {
+        "id": 927926,
+        "title": "Insulin Glargine, Recombinant"
+    },
+    {
+        "id": 928122,
+        "title": "Insulin Glulisine"
+    },
+    {
+        "id": 928507,
+        "title": "Insulin Human Inhaled"
+    },
+    {
+        "id": 301564,
+        "title": "Insulin Human Isophane (NPH)"
+    },
+    {
+        "id": 301569,
+        "title": "Insulin Human Isophane (NPH)/Insulin Human Regular"
+    },
+    {
+        "id": 301568,
+        "title": "Insulin Human Regular"
+    },
+    {
+        "id": 927923,
+        "title": "Insulin Lispro Protamine, Recombinant/Insulin Lispro, Recombinant"
+    },
+    {
+        "id": 927925,
+        "title": "Insulin Lispro, Recombinant"
+    },
+    {
+        "id": 301640,
+        "title": "Interferon Alfa-2b"
+    },
+    {
+        "id": 301660,
+        "title": "Interferon Alfa-n3"
+    },
+    {
+        "id": 923609,
+        "title": "Interferon Beta-1a"
+    },
+    {
+        "id": 922050,
+        "title": "Interferon Beta-1b"
+    },
+    {
+        "id": 301690,
+        "title": "Interferon Gamma-1b"
+    },
+    {
+        "id": 929208,
+        "title": "Iobenguane I 123"
+    },
+    {
+        "id": 302780,
+        "title": "Iodine"
+    },
+    {
+        "id": 303355,
+        "title": "Iodoquinol"
+    },
+    {
+        "id": 929785,
+        "title": "Ioflupane I 123"
+    },
+    {
+        "id": 303920,
+        "title": "Iopamidol"
+    },
+    {
+        "id": 923383,
+        "title": "Iopromide"
+    },
+    {
+        "id": 304190,
+        "title": "Ipecac Syrup"
+    },
+    {
+        "id": 929833,
+        "title": "Ipilimumab"
+    },
+    {
+        "id": 304260,
+        "title": "Ipratropium Bromide"
+    },
+    {
+        "id": 924054,
+        "title": "Ipratropium Bromide/Albuterol Sulfate"
+    },
+    {
+        "id": 924382,
+        "title": "Irbesartan"
+    },
+    {
+        "id": 924946,
+        "title": "Irbesartan/Hydrochlorothiazide"
+    },
+    {
+        "id": 923686,
+        "title": "Irinotecan Hydrochloride"
+    },
+    {
+        "id": 923112,
+        "title": "Iron"
+    },
+    {
+        "id": 304970,
+        "title": "Iron Dextran"
+    },
+    {
+        "id": 925477,
+        "title": "Iron Sucrose"
+    },
+    {
+        "id": 931366,
+        "title": "Isavuconazonium Sulfate"
+    },
+    {
+        "id": 305810,
+        "title": "Isocarboxazid"
+    },
+    {
+        "id": 305895,
+        "title": "Isoflurane"
+    },
+    {
+        "id": 306165,
+        "title": "Isometheptene Mucate/Dichloralphenazone/Acetaminophen"
+    },
+    {
+        "id": 306320,
+        "title": "Isoniazid"
+    },
+    {
+        "id": 516418,
+        "title": "Isoniazid/Rifampin"
+    },
+    {
+        "id": 306590,
+        "title": "Isoproterenol Hydrochloride"
+    },
+    {
+        "id": 307180,
+        "title": "Isosorbide Dinitrate"
+    },
+    {
+        "id": 307190,
+        "title": "Isosorbide Mononitrate"
+    },
+    {
+        "id": 307240,
+        "title": "Isosulfan Blue"
+    },
+    {
+        "id": 307300,
+        "title": "Isotretinoin"
+    },
+    {
+        "id": 307380,
+        "title": "Isoxsuprine Hydrochloride"
+    },
+    {
+        "id": 308000,
+        "title": "Isradipine"
+    },
+    {
+        "id": 308100,
+        "title": "Itraconazole"
+    },
+    {
+        "id": 931400,
+        "title": "Ivabradine"
+    },
+    {
+        "id": 930102,
+        "title": "Ivacaftor"
+    },
+    {
+        "id": 924223,
+        "title": "Ivermectin"
+    },
+    {
+        "id": 928899,
+        "title": "Ixabepilone"
+    },
+    {
+        "id": 929337,
+        "title": "Japanese Encephalitis Virus Vaccine, Inactivated"
+    },
+    {
+        "id": 929336,
+        "title": "Japanese Encephalitis Virus Vaccine, Inactivated Adsorbed"
+    },
+    {
+        "id": 318860,
+        "title": "Ketamine Hydrochloride"
+    },
+    {
+        "id": 318935,
+        "title": "Ketoconazole"
+    },
+    {
+        "id": 319050,
+        "title": "Ketoprofen"
+    },
+    {
+        "id": 319100,
+        "title": "Ketorolac Tromethamine"
+    },
+    {
+        "id": 923999,
+        "title": "Ketotifen Fumarate"
+    },
+    {
+        "id": 928540,
+        "title": "L-Methylfolate"
+    },
+    {
+        "id": 328650,
+        "title": "Labetalol Hydrochloride"
+    },
+    {
+        "id": 929227,
+        "title": "Lacosamide"
+    },
+    {
+        "id": 329396,
+        "title": "Lactulose"
+    },
+    {
+        "id": 923413,
+        "title": "Lamivudine"
+    },
+    {
+        "id": 931401,
+        "title": "Lamivudine/Raltegravir"
+    },
+    {
+        "id": 924370,
+        "title": "Lamivudine/Zidovudine"
+    },
+    {
+        "id": 923044,
+        "title": "Lamotrigine"
+    },
+    {
+        "id": 928851,
+        "title": "Lanreotide Acetate"
+    },
+    {
+        "id": 923335,
+        "title": "Lansoprazole"
+    },
+    {
+        "id": 930615,
+        "title": "Lansoprazole/Amoxicillin/Clarithromycin"
+    },
+    {
+        "id": 928332,
+        "title": "Lanthanum Carbonate"
+    },
+    {
+        "id": 928763,
+        "title": "Lapatinib Ditosylate"
+    },
+    {
+        "id": 927752,
+        "title": "Laronidase"
+    },
+    {
+        "id": 923684,
+        "title": "Latanoprost"
+    },
+    {
+        "id": 931079,
+        "title": "Ledipasvir/Sofosbuvir"
+    },
+    {
+        "id": 924779,
+        "title": "Leflunomide"
+    },
+    {
+        "id": 928481,
+        "title": "Lenalidomide"
+    },
+    {
+        "id": 931349,
+        "title": "Lenvatinib"
+    },
+    {
+        "id": 924338,
+        "title": "Letrozole"
+    },
+    {
+        "id": 337650,
+        "title": "Leucovorin Calcium"
+    },
+    {
+        "id": 337675,
+        "title": "Leuprolide Acetate"
+    },
+    {
+        "id": 930623,
+        "title": "Leuprolide Acetate/Norethindrone Acetate"
+    },
+    {
+        "id": 924951,
+        "title": "Levalbuterol Hydrochloride"
+    },
+    {
+        "id": 928387,
+        "title": "Levalbuterol Tartrate"
+    },
+    {
+        "id": 925188,
+        "title": "Levetiracetam"
+    },
+    {
+        "id": 337805,
+        "title": "Levobunolol Hydrochloride"
+    },
+    {
+        "id": 925157,
+        "title": "Levobupivacaine Hydrochloride"
+    },
+    {
+        "id": 108510,
+        "title": "Levocarnitine"
+    },
+    {
+        "id": 928800,
+        "title": "Levocetirizine Dihydrochloride"
+    },
+    {
+        "id": 924104,
+        "title": "Levofloxacin"
+    },
+    {
+        "id": 929001,
+        "title": "Levoleucovorin Calcium"
+    },
+    {
+        "id": 930746,
+        "title": "Levomilnacipran Hydrochloride"
+    },
+    {
+        "id": 337200,
+        "title": "Levonorgestrel"
+    },
+    {
+        "id": 337990,
+        "title": "Levorphanol Tartrate"
+    },
+    {
+        "id": 614030,
+        "title": "Levothyroxine Sodium"
+    },
+    {
+        "id": 339435,
+        "title": "Lidocaine"
+    },
+    {
+        "id": 339440,
+        "title": "Lidocaine Hydrochloride"
+    },
+    {
+        "id": 340600,
+        "title": "Lidocaine/Prilocaine"
+    },
+    {
+        "id": 928457,
+        "title": "Lidocaine/Tetracaine"
+    },
+    {
+        "id": 930279,
+        "title": "Linaclotide"
+    },
+    {
+        "id": 929895,
+        "title": "Linagliptin"
+    },
+    {
+        "id": 930101,
+        "title": "Linagliptin/Metformin Hydrochloride"
+    },
+    {
+        "id": 340875,
+        "title": "Lincomycin Hydrochloride"
+    },
+    {
+        "id": 340920,
+        "title": "Lindane"
+    },
+    {
+        "id": 925206,
+        "title": "Linezolid"
+    },
+    {
+        "id": 341490,
+        "title": "Liothyronine Sodium"
+    },
+    {
+        "id": 930803,
+        "title": "Lipegfilgrastim"
+    },
+    {
+        "id": 929571,
+        "title": "Liraglutide"
+    },
+    {
+        "id": 928758,
+        "title": "Lisdexamfetamine Dimesylate"
+    },
+    {
+        "id": 342750,
+        "title": "Lisinopril"
+    },
+    {
+        "id": 342755,
+        "title": "Lisinopril/Hydrochlorothiazide"
+    },
+    {
+        "id": 344655,
+        "title": "Lithium Carbonate"
+    },
+    {
+        "id": 344640,
+        "title": "Lithium Citrate"
+    },
+    {
+        "id": 930797,
+        "title": "Lixisenatide"
+    },
+    {
+        "id": 922189,
+        "title": "Lodoxamide Tromethamine"
+    },
+    {
+        "id": 347100,
+        "title": "Lomefloxacin Hydrochloride"
+    },
+    {
+        "id": 930351,
+        "title": "Lomitapide Mesylate"
+    },
+    {
+        "id": 347260,
+        "title": "Lomustine"
+    },
+    {
+        "id": 347649,
+        "title": "Loperamide Hydrochloride"
+    },
+    {
+        "id": 925388,
+        "title": "Lopinavir/Ritonavir"
+    },
+    {
+        "id": 347800,
+        "title": "Loratadine"
+    },
+    {
+        "id": 922392,
+        "title": "Loratadine/Pseudoephedrine Sulfate"
+    },
+    {
+        "id": 347844,
+        "title": "Lorazepam"
+    },
+    {
+        "id": 930230,
+        "title": "Lorcaserin Hydrochloride"
+    },
+    {
+        "id": 923317,
+        "title": "Losartan Potassium"
+    },
+    {
+        "id": 923322,
+        "title": "Losartan Potassium/Hydrochlorothiazide"
+    },
+    {
+        "id": 924704,
+        "title": "Loteprednol Etabonate"
+    },
+    {
+        "id": 928359,
+        "title": "Loteprednol Etabonate/Tobramycin"
+    },
+    {
+        "id": 348585,
+        "title": "Lovastatin"
+    },
+    {
+        "id": 930354,
+        "title": "Loxapine"
+    },
+    {
+        "id": 348889,
+        "title": "Loxapine Succinate"
+    },
+    {
+        "id": 928508,
+        "title": "Lubiprostone"
+    },
+    {
+        "id": 930286,
+        "title": "Lucinactant"
+    },
+    {
+        "id": 930829,
+        "title": "Luliconazole"
+    },
+    {
+        "id": 929748,
+        "title": "Lurasidone Hydrochloride"
+    },
+    {
+        "id": 930808,
+        "title": "Macitentan"
+    },
+    {
+        "id": 353371,
+        "title": "Mafenide Acetate"
+    },
+    {
+        "id": 354690,
+        "title": "Magnesium Citrate"
+    },
+    {
+        "id": 354720,
+        "title": "Magnesium Hydroxide"
+    },
+    {
+        "id": 354740,
+        "title": "Magnesium Oxide"
+    },
+    {
+        "id": 354770,
+        "title": "Magnesium Salicylate"
+    },
+    {
+        "id": 354800,
+        "title": "Magnesium Sulfate"
+    },
+    {
+        "id": 355405,
+        "title": "Malathion"
+    },
+    {
+        "id": 357530,
+        "title": "Mannitol"
+    },
+    {
+        "id": 358095,
+        "title": "Maprotiline Hydrochloride"
+    },
+    {
+        "id": 928834,
+        "title": "Maraviroc"
+    },
+    {
+        "id": 928314,
+        "title": "Measles Virus Vaccine, Live"
+    },
+    {
+        "id": 363130,
+        "title": "Measles, Mumps, Rubella Vaccine, Live"
+    },
+    {
+        "id": 928440,
+        "title": "Measles, Mumps, Rubella, and Varicella Vaccine, Live"
+    },
+    {
+        "id": 363210,
+        "title": "Mebendazole"
+    },
+    {
+        "id": 928470,
+        "title": "Mecasermin"
+    },
+    {
+        "id": 928479,
+        "title": "Mecasermin Rinfabate"
+    },
+    {
+        "id": 363300,
+        "title": "Mechlorethamine Hydrochloride"
+    },
+    {
+        "id": 363420,
+        "title": "Meclizine Hydrochloride"
+    },
+    {
+        "id": 363430,
+        "title": "Meclofenamate Sodium"
+    },
+    {
+        "id": 365950,
+        "title": "Medroxyprogesterone Acetate"
+    },
+    {
+        "id": 365993,
+        "title": "Mefenamic Acid"
+    },
+    {
+        "id": 365975,
+        "title": "Mefloquine Hydrochloride"
+    },
+    {
+        "id": 366080,
+        "title": "Megestrol Acetate"
+    },
+    {
+        "id": 922771,
+        "title": "Melatonin"
+    },
+    {
+        "id": 925202,
+        "title": "Meloxicam"
+    },
+    {
+        "id": 366550,
+        "title": "Melphalan"
+    },
+    {
+        "id": 927876,
+        "title": "Melphalan Hydrochloride"
+    },
+    {
+        "id": 927938,
+        "title": "Memantine Hydrochloride"
+    },
+    {
+        "id": 931327,
+        "title": "Memantine Hydrochloride/Donepezil Hydrochloride"
+    },
+    {
+        "id": 930424,
+        "title": "Meningococcal Conjugate/Haemophilus B Conjugate Vaccine"
+    },
+    {
+        "id": 929591,
+        "title": "Meningococcal Oligosaccharide Vaccine, Diphtheria Conjugate"
+    },
+    {
+        "id": 928370,
+        "title": "Meningococcal Polysaccharide Vaccine"
+    },
+    {
+        "id": 929592,
+        "title": "Meningococcal Polysaccharide Vaccine, Diphtheria Conjugate"
+    },
+    {
+        "id": 930827,
+        "title": "Meningococcal Vaccine, Group B"
+    },
+    {
+        "id": 930426,
+        "title": "Meningococcal Vaccine, Tetanus Toxoid Conjugate Quadrivalent"
+    },
+    {
+        "id": 368110,
+        "title": "Mepenzolate Bromide"
+    },
+    {
+        "id": 368240,
+        "title": "Meperidine Hydrochloride"
+    },
+    {
+        "id": 368470,
+        "title": "Mepivacaine Hydrochloride"
+    },
+    {
+        "id": 368570,
+        "title": "Meprobamate"
+    },
+    {
+        "id": 368571,
+        "title": "Meprobamate/Aspirin"
+    },
+    {
+        "id": 927593,
+        "title": "Mequinol/Tretinoin"
+    },
+    {
+        "id": 368950,
+        "title": "Mercaptopurine"
+    },
+    {
+        "id": 923768,
+        "title": "Meropenem"
+    },
+    {
+        "id": 370350,
+        "title": "Mesalamine"
+    },
+    {
+        "id": 922326,
+        "title": "Mesna"
+    },
+    {
+        "id": 370490,
+        "title": "Mesoridazine Besylate"
+    },
+    {
+        "id": 371020,
+        "title": "Metaproterenol Sulfate"
+    },
+    {
+        "id": 371030,
+        "title": "Metaraminol Bitartrate"
+    },
+    {
+        "id": 371140,
+        "title": "Metaxalone"
+    },
+    {
+        "id": 923296,
+        "title": "Metformin Hydrochloride"
+    },
+    {
+        "id": 371253,
+        "title": "Methacholine Chloride"
+    },
+    {
+        "id": 371260,
+        "title": "Methadone Hydrochloride"
+    },
+    {
+        "id": 371445,
+        "title": "Methamphetamine Hydrochloride"
+    },
+    {
+        "id": 371820,
+        "title": "Methazolamide"
+    },
+    {
+        "id": 371950,
+        "title": "Methenamine Hippurate"
+    },
+    {
+        "id": 372087,
+        "title": "Methimazole"
+    },
+    {
+        "id": 372310,
+        "title": "Methocarbamol"
+    },
+    {
+        "id": 372350,
+        "title": "Methohexital Sodium"
+    },
+    {
+        "id": 924079,
+        "title": "Methotrexate"
+    },
+    {
+        "id": 372470,
+        "title": "Methotrexate Sodium"
+    },
+    {
+        "id": 372507,
+        "title": "Methoxsalen"
+    },
+    {
+        "id": 931333,
+        "title": "Methoxy Polyethylene Glycol-Epoetin Beta"
+    },
+    {
+        "id": 372520,
+        "title": "Methscopolamine Bromide"
+    },
+    {
+        "id": 372525,
+        "title": "Methsuximide"
+    },
+    {
+        "id": 372535,
+        "title": "Methyclothiazide"
+    },
+    {
+        "id": 929667,
+        "title": "Methyl Aminolevulinate Hydrochloride"
+    },
+    {
+        "id": 372685,
+        "title": "Methyldopa"
+    },
+    {
+        "id": 372710,
+        "title": "Methylene Blue"
+    },
+    {
+        "id": 372730,
+        "title": "Methylergonovine Maleate"
+    },
+    {
+        "id": 929021,
+        "title": "Methylnaltrexone Bromide"
+    },
+    {
+        "id": 928539,
+        "title": "Methylphenidate"
+    },
+    {
+        "id": 372780,
+        "title": "Methylphenidate Hydrochloride"
+    },
+    {
+        "id": 372785,
+        "title": "Methylprednisolone"
+    },
+    {
+        "id": 372790,
+        "title": "Methylprednisolone Acetate"
+    },
+    {
+        "id": 372800,
+        "title": "Methylprednisolone Sodium Succinate"
+    },
+    {
+        "id": 372920,
+        "title": "Methyltestosterone"
+    },
+    {
+        "id": 372965,
+        "title": "Metipranolol"
+    },
+    {
+        "id": 373185,
+        "title": "Metoclopramide Hydrochloride"
+    },
+    {
+        "id": 373240,
+        "title": "Metolazone"
+    },
+    {
+        "id": 373268,
+        "title": "Metoprolol Succinate"
+    },
+    {
+        "id": 928586,
+        "title": "Metoprolol Succinate/Hydrochlorothiazide"
+    },
+    {
+        "id": 373270,
+        "title": "Metoprolol Tartrate"
+    },
+    {
+        "id": 373265,
+        "title": "Metoprolol Tartrate/Hydrochlorothiazide"
+    },
+    {
+        "id": 930908,
+        "title": "Metreleptin"
+    },
+    {
+        "id": 373500,
+        "title": "Metronidazole"
+    },
+    {
+        "id": 927554,
+        "title": "Metyrosine"
+    },
+    {
+        "id": 373888,
+        "title": "Mexiletine Hydrochloride"
+    },
+    {
+        "id": 928384,
+        "title": "Micafungin Sodium"
+    },
+    {
+        "id": 373980,
+        "title": "Miconazole"
+    },
+    {
+        "id": 374290,
+        "title": "Miconazole Nitrate"
+    },
+    {
+        "id": 928517,
+        "title": "Miconazole/Zinc Oxide/White Petrolatum"
+    },
+    {
+        "id": 375025,
+        "title": "Midazolam Hydrochloride"
+    },
+    {
+        "id": 923853,
+        "title": "Midodrine Hydrochloride"
+    },
+    {
+        "id": 930334,
+        "title": "Mifamurtide"
+    },
+    {
+        "id": 925587,
+        "title": "Mifepristone"
+    },
+    {
+        "id": 924849,
+        "title": "Miglitol"
+    },
+    {
+        "id": 927856,
+        "title": "Miglustat"
+    },
+    {
+        "id": 929279,
+        "title": "Milnacipran Hydrochloride"
+    },
+    {
+        "id": 376000,
+        "title": "Milrinone Lactate"
+    },
+    {
+        "id": 930919,
+        "title": "Miltefosine"
+    },
+    {
+        "id": 376830,
+        "title": "Mineral Oil"
+    },
+    {
+        "id": 377380,
+        "title": "Minocycline Hydrochloride"
+    },
+    {
+        "id": 377498,
+        "title": "Minoxidil"
+    },
+    {
+        "id": 930402,
+        "title": "Mipomersen Sodium"
+    },
+    {
+        "id": 930231,
+        "title": "Mirabegron"
+    },
+    {
+        "id": 923680,
+        "title": "Mirtazapine"
+    },
+    {
+        "id": 378000,
+        "title": "Misoprostol"
+    },
+    {
+        "id": 379200,
+        "title": "Mitomycin"
+    },
+    {
+        "id": 379235,
+        "title": "Mitotane"
+    },
+    {
+        "id": 379240,
+        "title": "Mitoxantrone Hydrochloride"
+    },
+    {
+        "id": 924926,
+        "title": "Modafinil"
+    },
+    {
+        "id": 923329,
+        "title": "Moexipril Hydrochloride"
+    },
+    {
+        "id": 924363,
+        "title": "Moexipril Hydrochloride/Hydrochlorothiazide"
+    },
+    {
+        "id": 380585,
+        "title": "Mometasone Furoate"
+    },
+    {
+        "id": 929643,
+        "title": "Mometasone furoate/Formoterol fumarate"
+    },
+    {
+        "id": 380950,
+        "title": "Monobenzone"
+    },
+    {
+        "id": 381190,
+        "title": "Monoctanoin"
+    },
+    {
+        "id": 924640,
+        "title": "Montelukast Sodium"
+    },
+    {
+        "id": 382310,
+        "title": "Morphine Sulfate"
+    },
+    {
+        "id": 928354,
+        "title": "Morphine Sulfate Liposome"
+    },
+    {
+        "id": 929451,
+        "title": "Morphine Sulfate/Naltrexone Hydrochloride"
+    },
+    {
+        "id": 925060,
+        "title": "Moxifloxacin Hydrochloride"
+    },
+    {
+        "id": 386240,
+        "title": "Mumps Skin Test Antigen"
+    },
+    {
+        "id": 386270,
+        "title": "Mumps Virus Vaccine, Live"
+    },
+    {
+        "id": 386330,
+        "title": "Mupirocin"
+    },
+    {
+        "id": 923578,
+        "title": "Mupirocin Calcium"
+    },
+    {
+        "id": 386525,
+        "title": "Muromonab-CD3"
+    },
+    {
+        "id": 923344,
+        "title": "Mycophenolate Mofetil"
+    },
+    {
+        "id": 924782,
+        "title": "Mycophenolate Mofetil Hydrochloride"
+    },
+    {
+        "id": 928039,
+        "title": "Mycophenolate Sodium"
+    },
+    {
+        "id": 389570,
+        "title": "Nabilone"
+    },
+    {
+        "id": 389600,
+        "title": "Nabumetone"
+    },
+    {
+        "id": 390668,
+        "title": "Nadolol"
+    },
+    {
+        "id": 389935,
+        "title": "Nadolol/Bendroflumethiazide"
+    },
+    {
+        "id": 390060,
+        "title": "Nafarelin Acetate"
+    },
+    {
+        "id": 390105,
+        "title": "Nafcillin Sodium"
+    },
+    {
+        "id": 390170,
+        "title": "Naftifine Hydrochloride"
+    },
+    {
+        "id": 390630,
+        "title": "Nalbuphine Hydrochloride"
+    },
+    {
+        "id": 923341,
+        "title": "Nalmefene Hydrochloride"
+    },
+    {
+        "id": 931050,
+        "title": "Naloxegol"
+    },
+    {
+        "id": 390800,
+        "title": "Naloxone Hydrochloride"
+    },
+    {
+        "id": 928102,
+        "title": "Naltrexone"
+    },
+    {
+        "id": 390850,
+        "title": "Naltrexone Hydrochloride"
+    },
+    {
+        "id": 931042,
+        "title": "Naltrexone hydrochloride/Bupropion hydrochloride"
+    },
+    {
+        "id": 390927,
+        "title": "Nandrolone Decanoate"
+    },
+    {
+        "id": 391130,
+        "title": "Naphazoline Hydrochloride"
+    },
+    {
+        "id": 391330,
+        "title": "Naproxen"
+    },
+    {
+        "id": 391340,
+        "title": "Naproxen Sodium"
+    },
+    {
+        "id": 929621,
+        "title": "Naproxen/Esomeprazole magnesium"
+    },
+    {
+        "id": 924581,
+        "title": "Naratriptan Hydrochloride"
+    },
+    {
+        "id": 928339,
+        "title": "Natalizumab"
+    },
+    {
+        "id": 392600,
+        "title": "Natamycin"
+    },
+    {
+        "id": 926027,
+        "title": "Nateglinide"
+    },
+    {
+        "id": 928933,
+        "title": "Nebivolol Hydrochloride"
+    },
+    {
+        "id": 393000,
+        "title": "Nedocromil Sodium"
+    },
+    {
+        "id": 922850,
+        "title": "Nefazodone Hydrochloride"
+    },
+    {
+        "id": 928466,
+        "title": "Nelarabine"
+    },
+    {
+        "id": 924222,
+        "title": "Nelfinavir Mesylate"
+    },
+    {
+        "id": 399110,
+        "title": "Neomycin Sulfate"
+    },
+    {
+        "id": 400640,
+        "title": "Neostigmine Bromide"
+    },
+    {
+        "id": 400670,
+        "title": "Neostigmine Methylsulfate"
+    },
+    {
+        "id": 928442,
+        "title": "Nepafenac"
+    },
+    {
+        "id": 926624,
+        "title": "Nesiritide"
+    },
+    {
+        "id": 402365,
+        "title": "Netilmicin Sulfate"
+    },
+    {
+        "id": 931080,
+        "title": "Netupitant/Palonosetron"
+    },
+    {
+        "id": 923691,
+        "title": "Nevirapine"
+    },
+    {
+        "id": 404090,
+        "title": "Niacin"
+    },
+    {
+        "id": 926834,
+        "title": "Niacin/Lovastatin"
+    },
+    {
+        "id": 928994,
+        "title": "Niacin/Simvastatin"
+    },
+    {
+        "id": 404120,
+        "title": "Niacinamide"
+    },
+    {
+        "id": 404550,
+        "title": "Nicardipine Hydrochloride"
+    },
+    {
+        "id": 405340,
+        "title": "Nicotine"
+    },
+    {
+        "id": 405342,
+        "title": "Nicotine Polacrilex"
+    },
+    {
+        "id": 930360,
+        "title": "Nicotinic Acid/Laropiprant"
+    },
+    {
+        "id": 405670,
+        "title": "Nifedipine"
+    },
+    {
+        "id": 928915,
+        "title": "Nilotinib Hydrochloride"
+    },
+    {
+        "id": 923921,
+        "title": "Nilutamide"
+    },
+    {
+        "id": 406500,
+        "title": "Nimodipine"
+    },
+    {
+        "id": 931081,
+        "title": "Nintedanib"
+    },
+    {
+        "id": 923497,
+        "title": "Nisoldipine"
+    },
+    {
+        "id": 927821,
+        "title": "Nitazoxanide"
+    },
+    {
+        "id": 926939,
+        "title": "Nitisinone"
+    },
+    {
+        "id": 925155,
+        "title": "Nitric Oxide"
+    },
+    {
+        "id": 407840,
+        "title": "Nitrofurantoin"
+    },
+    {
+        "id": 923302,
+        "title": "Nitrofurantoin Monohydrate/Nitrofurantoin, Macrocrystals"
+    },
+    {
+        "id": 407855,
+        "title": "Nitrofurantoin, Macrocrystals"
+    },
+    {
+        "id": 407900,
+        "title": "Nitroglycerin"
+    },
+    {
+        "id": 931326,
+        "title": "Nivolumab"
+    },
+    {
+        "id": 408595,
+        "title": "Nizatidine"
+    },
+    {
+        "id": 930344,
+        "title": "Nomegestrol Acetate/Estradiol"
+    },
+    {
+        "id": 409645,
+        "title": "Nonoxynol 9"
+    },
+    {
+        "id": 410190,
+        "title": "Norepinephrine Bitartrate"
+    },
+    {
+        "id": 410193,
+        "title": "Norethindrone"
+    },
+    {
+        "id": 410194,
+        "title": "Norethindrone Acetate"
+    },
+    {
+        "id": 930564,
+        "title": "Norethindrone acetate/Ethinyl estradiol and Ferrous fumarate"
+    },
+    {
+        "id": 930624,
+        "title": "Norethindrone acetate/ethinyl estradiol and ethinyl estradiol and ferrous fumarate"
+    },
+    {
+        "id": 410315,
+        "title": "Norfloxacin"
+    },
+    {
+        "id": 411960,
+        "title": "Nortriptyline Hydrochloride"
+    },
+    {
+        "id": 417400,
+        "title": "Nystatin"
+    },
+    {
+        "id": 417403,
+        "title": "Nystatin/Triamcinolone Acetonide"
+    },
+    {
+        "id": 930811,
+        "title": "Obinutuzumab"
+    },
+    {
+        "id": 930370,
+        "title": "Ocriplasmin"
+    },
+    {
+        "id": 419990,
+        "title": "Octreotide Acetate"
+    },
+    {
+        "id": 929517,
+        "title": "Ofatumumab"
+    },
+    {
+        "id": 420450,
+        "title": "Ofloxacin"
+    },
+    {
+        "id": 923885,
+        "title": "Olanzapine"
+    },
+    {
+        "id": 929542,
+        "title": "Olanzapine Pamoate"
+    },
+    {
+        "id": 927974,
+        "title": "Olanzapine/Fluoxetine Hydrochloride"
+    },
+    {
+        "id": 931320,
+        "title": "Olaparib"
+    },
+    {
+        "id": 926966,
+        "title": "Olmesartan Medoxomil"
+    },
+    {
+        "id": 929664,
+        "title": "Olmesartan Medoxomil/Amlodipine/Hydrochlorothiazide"
+    },
+    {
+        "id": 927813,
+        "title": "Olmesartan Medoxomil/Hydrochlorothiazide"
+    },
+    {
+        "id": 931014,
+        "title": "Olodaterol"
+    },
+    {
+        "id": 924218,
+        "title": "Olopatadine Hydrochloride"
+    },
+    {
+        "id": 421600,
+        "title": "Olsalazine Sodium"
+    },
+    {
+        "id": 930301,
+        "title": "Omacetaxine Mepesuccinate"
+    },
+    {
+        "id": 927771,
+        "title": "Omalizumab"
+    },
+    {
+        "id": 931324,
+        "title": "Ombitasvir/Paritaprevir/Ritonavir/Dasabuvir"
+    },
+    {
+        "id": 928380,
+        "title": "Omega-3-Acid Ethyl Esters"
+    },
+    {
+        "id": 930947,
+        "title": "Omega-3-Carboxylic Acids"
+    },
+    {
+        "id": 422000,
+        "title": "Omeprazole"
+    },
+    {
+        "id": 930708,
+        "title": "Omeprazole/Clarithromycin/Amoxicillin"
+    },
+    {
+        "id": 928520,
+        "title": "Omeprazole/Sodium Bicarbonate"
+    },
+    {
+        "id": 929446,
+        "title": "OnabotulinumtoxinA"
+    },
+    {
+        "id": 924978,
+        "title": "Ondansetron"
+    },
+    {
+        "id": 422285,
+        "title": "Ondansetron Hydrochloride"
+    },
+    {
+        "id": 423470,
+        "title": "Opium"
+    },
+    {
+        "id": 924409,
+        "title": "Oprelvekin"
+    },
+    {
+        "id": 931015,
+        "title": "Oritavancin"
+    },
+    {
+        "id": 924948,
+        "title": "Orlistat"
+    },
+    {
+        "id": 428450,
+        "title": "Orphenadrine Citrate"
+    },
+    {
+        "id": 925041,
+        "title": "Oseltamivir Phosphate"
+    },
+    {
+        "id": 930433,
+        "title": "Ospemifene"
+    },
+    {
+        "id": 431580,
+        "title": "Oxacillin Sodium"
+    },
+    {
+        "id": 926988,
+        "title": "Oxaliplatin"
+    },
+    {
+        "id": 431682,
+        "title": "Oxandrolone"
+    },
+    {
+        "id": 431684,
+        "title": "Oxaprozin"
+    },
+    {
+        "id": 431685,
+        "title": "Oxazepam"
+    },
+    {
+        "id": 925117,
+        "title": "Oxcarbazepine"
+    },
+    {
+        "id": 431730,
+        "title": "Oxiconazole Nitrate"
+    },
+    {
+        "id": 927737,
+        "title": "Oxybutynin"
+    },
+    {
+        "id": 432123,
+        "title": "Oxybutynin Chloride"
+    },
+    {
+        "id": 432180,
+        "title": "Oxycodone Hydrochloride"
+    },
+    {
+        "id": 931010,
+        "title": "Oxycodone Hydrochloride/Naloxone Hydrochloride"
+    },
+    {
+        "id": 928363,
+        "title": "Oxycodone/Ibuprofen"
+    },
+    {
+        "id": 432415,
+        "title": "Oxymetazoline Hydrochloride"
+    },
+    {
+        "id": 432416,
+        "title": "Oxymetholone"
+    },
+    {
+        "id": 432417,
+        "title": "Oxymorphone Hydrochloride"
+    },
+    {
+        "id": 432620,
+        "title": "Oxytocin"
+    },
+    {
+        "id": 930621,
+        "title": "PEG 3350/Electrolytes/Sodium Ascorbate/Ascorbic Acid"
+    },
+    {
+        "id": 928719,
+        "title": "PEG 3350/KCL/Sodium Bicarbonate/Sodium Chloride/Sodium Sulfate"
+    },
+    {
+        "id": 928324,
+        "title": "PEG 3350/Sodium Chloride/Sodium Bicarbonate/KCL"
+    },
+    {
+        "id": 924645,
+        "title": "POTASSIUM PHOSPHATE/SODIUM PHOSPHATE, MONOBASIC AND DIBASIC"
+    },
+    {
+        "id": 433500,
+        "title": "Paclitaxel"
+    },
+    {
+        "id": 928375,
+        "title": "Paclitaxel Protein-Bound"
+    },
+    {
+        "id": 931346,
+        "title": "Palbociclib"
+    },
+    {
+        "id": 928350,
+        "title": "Palifermin"
+    },
+    {
+        "id": 928711,
+        "title": "Paliperidone"
+    },
+    {
+        "id": 929453,
+        "title": "Paliperidone Palmitate"
+    },
+    {
+        "id": 924765,
+        "title": "Palivizumab"
+    },
+    {
+        "id": 927845,
+        "title": "Palonosetron Hydrochloride"
+    },
+    {
+        "id": 436000,
+        "title": "Pamidronate Disodium"
+    },
+    {
+        "id": 438560,
+        "title": "Pancreatin"
+    },
+    {
+        "id": 29020,
+        "title": "Pancrelipase"
+    },
+    {
+        "id": 438670,
+        "title": "Pancuronium Bromide"
+    },
+    {
+        "id": 928625,
+        "title": "Panitumumab"
+    },
+    {
+        "id": 931360,
+        "title": "Panobinostat"
+    },
+    {
+        "id": 923818,
+        "title": "Pantoprazole Sodium"
+    },
+    {
+        "id": 441770,
+        "title": "Papaverine Hydrochloride"
+    },
+    {
+        "id": 931342,
+        "title": "Parathyroid Hormone"
+    },
+    {
+        "id": 924654,
+        "title": "Paricalcitol"
+    },
+    {
+        "id": 445100,
+        "title": "Paromomycin Sulfate"
+    },
+    {
+        "id": 445110,
+        "title": "Paroxetine Hydrochloride"
+    },
+    {
+        "id": 927977,
+        "title": "Paroxetine Mesylate"
+    },
+    {
+        "id": 931318,
+        "title": "Pasireotide"
+    },
+    {
+        "id": 930332,
+        "title": "Pasireotide Diaspartate"
+    },
+    {
+        "id": 929511,
+        "title": "Pazopanib Hydrochloride"
+    },
+    {
+        "id": 449955,
+        "title": "Pegademase Bovine"
+    },
+    {
+        "id": 928352,
+        "title": "Pegaptanib Octasodium"
+    },
+    {
+        "id": 922288,
+        "title": "Pegaspargase"
+    },
+    {
+        "id": 926953,
+        "title": "Pegfilgrastim"
+    },
+    {
+        "id": 927019,
+        "title": "Peginterferon Alfa-2a"
+    },
+    {
+        "id": 926101,
+        "title": "Peginterferon Alfa-2b"
+    },
+    {
+        "id": 931025,
+        "title": "Peginterferon Beta-1a"
+    },
+    {
+        "id": 929695,
+        "title": "Pegloticase"
+    },
+    {
+        "id": 927724,
+        "title": "Pegvisomant"
+    },
+    {
+        "id": 931040,
+        "title": "Pembrolizumab"
+    },
+    {
+        "id": 928000,
+        "title": "Pemetrexed"
+    },
+    {
+        "id": 925196,
+        "title": "Pemirolast Potassium"
+    },
+    {
+        "id": 450825,
+        "title": "Pemoline"
+    },
+    {
+        "id": 451000,
+        "title": "Penbutolol Sulfate"
+    },
+    {
+        "id": 924057,
+        "title": "Penciclovir"
+    },
+    {
+        "id": 451595,
+        "title": "Penicillamine"
+    },
+    {
+        "id": 451650,
+        "title": "Penicillin G Benzathine"
+    },
+    {
+        "id": 451651,
+        "title": "Penicillin G Benzathine/Penicillin G Procaine"
+    },
+    {
+        "id": 921972,
+        "title": "Penicillin G Potassium"
+    },
+    {
+        "id": 451655,
+        "title": "Penicillin G Procaine"
+    },
+    {
+        "id": 921971,
+        "title": "Penicillin G Sodium"
+    },
+    {
+        "id": 451700,
+        "title": "Penicillin V Potassium"
+    },
+    {
+        "id": 453000,
+        "title": "Pentamidine Isethionate"
+    },
+    {
+        "id": 453390,
+        "title": "Pentazocine Hydrochloride/Naloxone Hydrochloride"
+    },
+    {
+        "id": 453380,
+        "title": "Pentazocine Lactate"
+    },
+    {
+        "id": 928333,
+        "title": "Pentetate Calcium Trisodium"
+    },
+    {
+        "id": 928336,
+        "title": "Pentetate Zinc Trisodium"
+    },
+    {
+        "id": 453860,
+        "title": "Pentobarbital Sodium"
+    },
+    {
+        "id": 923644,
+        "title": "Pentosan Polysulfate Sodium"
+    },
+    {
+        "id": 453900,
+        "title": "Pentostatin"
+    },
+    {
+        "id": 454100,
+        "title": "Pentoxifylline"
+    },
+    {
+        "id": 929516,
+        "title": "Peramivir"
+    },
+    {
+        "id": 930298,
+        "title": "Perampanel"
+    },
+    {
+        "id": 926617,
+        "title": "Perflutren Lipid Microsphere"
+    },
+    {
+        "id": 928136,
+        "title": "Perflutren Protein Type A Microsphere"
+    },
+    {
+        "id": 931340,
+        "title": "Perindopril Arginine/Amlodipine"
+    },
+    {
+        "id": 925021,
+        "title": "Perindopril Erbumine"
+    },
+    {
+        "id": 457740,
+        "title": "Permethrin"
+    },
+    {
+        "id": 458795,
+        "title": "Perphenazine"
+    },
+    {
+        "id": 930221,
+        "title": "Pertuzumab"
+    },
+    {
+        "id": 462410,
+        "title": "Phenazopyridine Hydrochloride"
+    },
+    {
+        "id": 462690,
+        "title": "Phendimetrazine Tartrate"
+    },
+    {
+        "id": 462750,
+        "title": "Phenelzine Sulfate"
+    },
+    {
+        "id": 922607,
+        "title": "Pheniramine Maleate"
+    },
+    {
+        "id": 463350,
+        "title": "Phenobarbital"
+    },
+    {
+        "id": 922215,
+        "title": "Phenobarbital Sodium"
+    },
+    {
+        "id": 464380,
+        "title": "Phenoxybenzamine Hydrochloride"
+    },
+    {
+        "id": 464530,
+        "title": "Phentermine Hydrochloride"
+    },
+    {
+        "id": 922327,
+        "title": "Phentermine Resin"
+    },
+    {
+        "id": 930243,
+        "title": "Phentermine/Topiramate"
+    },
+    {
+        "id": 464547,
+        "title": "Phentolamine Mesylate"
+    },
+    {
+        "id": 464840,
+        "title": "Phenylephrine Hydrochloride"
+    },
+    {
+        "id": 928169,
+        "title": "Phenylephrine Tannate"
+    },
+    {
+        "id": 930974,
+        "title": "Phenylephrine/Ketorolac"
+    },
+    {
+        "id": 465045,
+        "title": "Phenytoin"
+    },
+    {
+        "id": 927863,
+        "title": "Phenytoin Sodium"
+    },
+    {
+        "id": 466580,
+        "title": "Physostigmine Salicylate"
+    },
+    {
+        "id": 466650,
+        "title": "Phytonadione"
+    },
+    {
+        "id": 467600,
+        "title": "Pilocarpine Hydrochloride"
+    },
+    {
+        "id": 926886,
+        "title": "Pimecrolimus"
+    },
+    {
+        "id": 467818,
+        "title": "Pimozide"
+    },
+    {
+        "id": 467880,
+        "title": "Pindolol"
+    },
+    {
+        "id": 925022,
+        "title": "Pioglitazone Hydrochloride"
+    },
+    {
+        "id": 928572,
+        "title": "Pioglitazone Hydrochloride/Glimepiride"
+    },
+    {
+        "id": 928447,
+        "title": "Pioglitazone Hydrochloride/Metformin Hydrochloride"
+    },
+    {
+        "id": 468510,
+        "title": "Piperacillin Sodium"
+    },
+    {
+        "id": 922103,
+        "title": "Piperacillin Sodium/Tazobactam Sodium"
+    },
+    {
+        "id": 930413,
+        "title": "Piperaquine Tetraphosphate/Dihydroartemisinin"
+    },
+    {
+        "id": 495255,
+        "title": "Piperonyl Butoxide/Pyrethrum Extract"
+    },
+    {
+        "id": 469040,
+        "title": "Pirbuterol Acetate"
+    },
+    {
+        "id": 931083,
+        "title": "Pirfenidone"
+    },
+    {
+        "id": 469160,
+        "title": "Piroxicam"
+    },
+    {
+        "id": 929447,
+        "title": "Pitavastatin Calcium"
+    },
+    {
+        "id": 930367,
+        "title": "Pixantrone Dimaleate"
+    },
+    {
+        "id": 924792,
+        "title": "Plasma"
+    },
+    {
+        "id": 470300,
+        "title": "Plasma Protein Fraction"
+    },
+    {
+        "id": 929249,
+        "title": "Plerixafor"
+    },
+    {
+        "id": 929593,
+        "title": "Pneumococcal 13-Valent Vaccine, Diphtheria Conjugate"
+    },
+    {
+        "id": 928155,
+        "title": "Pneumococcal Vaccine Polyvalent"
+    },
+    {
+        "id": 472100,
+        "title": "Podofilox"
+    },
+    {
+        "id": 472130,
+        "title": "Podophyllum Resin"
+    },
+    {
+        "id": 929611,
+        "title": "Polidocanol"
+    },
+    {
+        "id": 472670,
+        "title": "Poliovirus Vaccine, Inactivated"
+    },
+    {
+        "id": 472680,
+        "title": "Poliovirus Vaccine, Live"
+    },
+    {
+        "id": 928045,
+        "title": "Polyethylene Glycol 3350"
+    },
+    {
+        "id": 473890,
+        "title": "Polymyxin B Sulfate"
+    },
+    {
+        "id": 930421,
+        "title": "Pomalidomide"
+    },
+    {
+        "id": 930331,
+        "title": "Ponatinib Hydrochloride"
+    },
+    {
+        "id": 925191,
+        "title": "Poractant Alfa"
+    },
+    {
+        "id": 923555,
+        "title": "Porfimer Sodium"
+    },
+    {
+        "id": 928608,
+        "title": "Posaconazole"
+    },
+    {
+        "id": 476330,
+        "title": "Potassium Chloride"
+    },
+    {
+        "id": 476420,
+        "title": "Potassium Citrate"
+    },
+    {
+        "id": 476570,
+        "title": "Potassium Iodide"
+    },
+    {
+        "id": 476730,
+        "title": "Potassium Phosphate"
+    },
+    {
+        "id": 929483,
+        "title": "Pralatrexate"
+    },
+    {
+        "id": 477250,
+        "title": "Pralidoxime Chloride"
+    },
+    {
+        "id": 924298,
+        "title": "Pramipexole Dihydrochloride"
+    },
+    {
+        "id": 928385,
+        "title": "Pramlintide Acetate"
+    },
+    {
+        "id": 477495,
+        "title": "Pramoxine Hydrochloride"
+    },
+    {
+        "id": 929434,
+        "title": "Prasugrel Hydrochloride"
+    },
+    {
+        "id": 477530,
+        "title": "Pravastatin Sodium"
+    },
+    {
+        "id": 930335,
+        "title": "Pravastatin sodium/Fenofibrate"
+    },
+    {
+        "id": 477565,
+        "title": "Praziquantel"
+    },
+    {
+        "id": 477575,
+        "title": "Prazosin Hydrochloride"
+    },
+    {
+        "id": 922175,
+        "title": "Prednicarbate"
+    },
+    {
+        "id": 478490,
+        "title": "Prednisolone"
+    },
+    {
+        "id": 478550,
+        "title": "Prednisolone Acetate"
+    },
+    {
+        "id": 478600,
+        "title": "Prednisolone Sodium Phosphate"
+    },
+    {
+        "id": 478640,
+        "title": "Prednisone"
+    },
+    {
+        "id": 928422,
+        "title": "Pregabalin"
+    },
+    {
+        "id": 481840,
+        "title": "Prilocaine Hydrochloride"
+    },
+    {
+        "id": 482130,
+        "title": "Primaquine Phosphate"
+    },
+    {
+        "id": 482400,
+        "title": "Primidone"
+    },
+    {
+        "id": 483820,
+        "title": "Probenecid"
+    },
+    {
+        "id": 483830,
+        "title": "Probenecid/Colchicine"
+    },
+    {
+        "id": 484160,
+        "title": "Procainamide Hydrochloride"
+    },
+    {
+        "id": 484304,
+        "title": "Procarbazine Hydrochloride"
+    },
+    {
+        "id": 484410,
+        "title": "Prochlorperazine"
+    },
+    {
+        "id": 922201,
+        "title": "Prochlorperazine Edisylate"
+    },
+    {
+        "id": 922202,
+        "title": "Prochlorperazine Maleate"
+    },
+    {
+        "id": 486020,
+        "title": "Progesterone"
+    },
+    {
+        "id": 487580,
+        "title": "Promethazine Hydrochloride"
+    },
+    {
+        "id": 487595,
+        "title": "Promethazine Hydrochloride/Codeine Phosphate"
+    },
+    {
+        "id": 487682,
+        "title": "Promethazine/Phenylephrine/Codeine Phosphate"
+    },
+    {
+        "id": 487760,
+        "title": "Propafenone Hydrochloride"
+    },
+    {
+        "id": 488370,
+        "title": "Propantheline Bromide"
+    },
+    {
+        "id": 488410,
+        "title": "Proparacaine Hydrochloride"
+    },
+    {
+        "id": 488560,
+        "title": "Propofol"
+    },
+    {
+        "id": 488725,
+        "title": "Propranolol Hydrochloride"
+    },
+    {
+        "id": 488735,
+        "title": "Propranolol Hydrochloride/Hydrochlorothiazide"
+    },
+    {
+        "id": 488840,
+        "title": "Propylthiouracil"
+    },
+    {
+        "id": 489710,
+        "title": "Protamine Sulfate"
+    },
+    {
+        "id": 928779,
+        "title": "Protein C, Human"
+    },
+    {
+        "id": 930496,
+        "title": "Prothrombin Complex Human"
+    },
+    {
+        "id": 491123,
+        "title": "Protirelin"
+    },
+    {
+        "id": 491490,
+        "title": "Protriptyline Hydrochloride"
+    },
+    {
+        "id": 930412,
+        "title": "Prucalopride Succinate"
+    },
+    {
+        "id": 927937,
+        "title": "Prussian blue"
+    },
+    {
+        "id": 492830,
+        "title": "Pseudoephedrine Hydrochloride"
+    },
+    {
+        "id": 493100,
+        "title": "Psyllium"
+    },
+    {
+        "id": 494950,
+        "title": "Pyrantel Pamoate"
+    },
+    {
+        "id": 495110,
+        "title": "Pyrazinamide"
+    },
+    {
+        "id": 495770,
+        "title": "Pyridostigmine Bromide"
+    },
+    {
+        "id": 922225,
+        "title": "Pyridoxine"
+    },
+    {
+        "id": 495950,
+        "title": "Pyrimethamine"
+    },
+    {
+        "id": 498000,
+        "title": "Quazepam"
+    },
+    {
+        "id": 924369,
+        "title": "Quetiapine Fumarate"
+    },
+    {
+        "id": 499555,
+        "title": "Quinapril Hydrochloride"
+    },
+    {
+        "id": 925194,
+        "title": "Quinapril/Hydrochlorothiazide"
+    },
+    {
+        "id": 499900,
+        "title": "Quinidine Gluconate"
+    },
+    {
+        "id": 499970,
+        "title": "Quinidine Sulfate"
+    },
+    {
+        "id": 500060,
+        "title": "Quinine Sulfate"
+    },
+    {
+        "id": 925036,
+        "title": "Quinupristin/Dalfopristin"
+    },
+    {
+        "id": 925027,
+        "title": "Rabeprazole Sodium"
+    },
+    {
+        "id": 501670,
+        "title": "Rabies Immune Globulin"
+    },
+    {
+        "id": 501680,
+        "title": "Rabies Vaccine"
+    },
+    {
+        "id": 930516,
+        "title": "Radium Ra 223 Dichloride"
+    },
+    {
+        "id": 924422,
+        "title": "Raloxifene Hydrochloride"
+    },
+    {
+        "id": 928898,
+        "title": "Raltegravir Potassium"
+    },
+    {
+        "id": 928423,
+        "title": "Ramelteon"
+    },
+    {
+        "id": 502480,
+        "title": "Ramipril"
+    },
+    {
+        "id": 930938,
+        "title": "Ramucirumab"
+    },
+    {
+        "id": 928565,
+        "title": "Ranibizumab"
+    },
+    {
+        "id": 502580,
+        "title": "Ranitidine Hydrochloride"
+    },
+    {
+        "id": 928504,
+        "title": "Ranolazine"
+    },
+    {
+        "id": 928552,
+        "title": "Rasagiline"
+    },
+    {
+        "id": 926996,
+        "title": "Rasburicase"
+    },
+    {
+        "id": 930352,
+        "title": "Raxibacumab"
+    },
+    {
+        "id": 929013,
+        "title": "Regadenoson"
+    },
+    {
+        "id": 930293,
+        "title": "Regorafenib"
+    },
+    {
+        "id": 923849,
+        "title": "Remifentanil Hydrochloride"
+    },
+    {
+        "id": 924653,
+        "title": "Repaglinide"
+    },
+    {
+        "id": 929053,
+        "title": "Repaglinide/Metformin Hydrochloride"
+    },
+    {
+        "id": 511100,
+        "title": "Reserpine"
+    },
+    {
+        "id": 923528,
+        "title": "Respiratory Syncytial Virus Immune Globulin, Human"
+    },
+    {
+        "id": 928774,
+        "title": "Retapamulin"
+    },
+    {
+        "id": 924138,
+        "title": "Reteplase, Recombinant"
+    },
+    {
+        "id": 514930,
+        "title": "Rho(D) Immune Globulin"
+    },
+    {
+        "id": 515530,
+        "title": "Ribavirin"
+    },
+    {
+        "id": 516100,
+        "title": "Rifabutin"
+    },
+    {
+        "id": 516417,
+        "title": "Rifampin"
+    },
+    {
+        "id": 922350,
+        "title": "Rifampin/Isoniazid/Pyrazinamide"
+    },
+    {
+        "id": 924809,
+        "title": "Rifapentine"
+    },
+    {
+        "id": 928167,
+        "title": "Rifaximin"
+    },
+    {
+        "id": 928999,
+        "title": "Rilonacept"
+    },
+    {
+        "id": 929922,
+        "title": "Rilpivirine Hydrochloride"
+    },
+    {
+        "id": 923496,
+        "title": "Riluzole"
+    },
+    {
+        "id": 929445,
+        "title": "RimabotulinumtoxinB"
+    },
+    {
+        "id": 922066,
+        "title": "Rimantadine Hydrochloride"
+    },
+    {
+        "id": 923402,
+        "title": "Rimexolone"
+    },
+    {
+        "id": 930801,
+        "title": "Riociguat"
+    },
+    {
+        "id": 924776,
+        "title": "Risedronate Sodium"
+    },
+    {
+        "id": 922222,
+        "title": "Risperidone"
+    },
+    {
+        "id": 923544,
+        "title": "Ritonavir"
+    },
+    {
+        "id": 924407,
+        "title": "Rituximab"
+    },
+    {
+        "id": 929924,
+        "title": "Rivaroxaban"
+    },
+    {
+        "id": 928825,
+        "title": "Rivastigmine"
+    },
+    {
+        "id": 925207,
+        "title": "Rivastigmine Tartrate"
+    },
+    {
+        "id": 924729,
+        "title": "Rizatriptan Benzoate"
+    },
+    {
+        "id": 922316,
+        "title": "Rocuronium Bromide"
+    },
+    {
+        "id": 929815,
+        "title": "Roflumilast"
+    },
+    {
+        "id": 929527,
+        "title": "Romidepsin"
+    },
+    {
+        "id": 929155,
+        "title": "Romiplostim"
+    },
+    {
+        "id": 924368,
+        "title": "Ropinirole Hydrochloride"
+    },
+    {
+        "id": 924030,
+        "title": "Ropivacaine Hydrochloride"
+    },
+    {
+        "id": 924980,
+        "title": "Rosiglitazone Maleate"
+    },
+    {
+        "id": 928478,
+        "title": "Rosiglitazone Maleate/Glimepiride"
+    },
+    {
+        "id": 927026,
+        "title": "Rosiglitazone Maleate/Metformin Hydrochloride"
+    },
+    {
+        "id": 927852,
+        "title": "Rosuvastatin Calcium"
+    },
+    {
+        "id": 924780,
+        "title": "Rotavirus Vaccine, Live"
+    },
+    {
+        "id": 928518,
+        "title": "Rotavirus Vaccine, Live, Pentavalent"
+    },
+    {
+        "id": 928791,
+        "title": "Rotigotine"
+    },
+    {
+        "id": 522960,
+        "title": "Rubella Virus Vaccine, Live"
+    },
+    {
+        "id": 925200,
+        "title": "Rubidium Chloride Rb 82"
+    },
+    {
+        "id": 929239,
+        "title": "Rufinamide"
+    },
+    {
+        "id": 930044,
+        "title": "Ruxolitinib Phosphate"
+    },
+    {
+        "id": 927710,
+        "title": "Saccharomyces Boulardii"
+    },
+    {
+        "id": 924749,
+        "title": "Sacrosidase"
+    },
+    {
+        "id": 931383,
+        "title": "Safinamide"
+    },
+    {
+        "id": 529100,
+        "title": "Salicylic Acid"
+    },
+    {
+        "id": 922287,
+        "title": "Salmeterol Xinafoate"
+    },
+    {
+        "id": 529230,
+        "title": "Salsalate"
+    },
+    {
+        "id": 924716,
+        "title": "Samarium Sm 153 Lexidronam Pentasodium"
+    },
+    {
+        "id": 928931,
+        "title": "Sapropterin Dihydrochloride"
+    },
+    {
+        "id": 923419,
+        "title": "Saquinavir Mesylate"
+    },
+    {
+        "id": 530340,
+        "title": "Sargramostim"
+    },
+    {
+        "id": 929444,
+        "title": "Saxagliptin Hydrochloride"
+    },
+    {
+        "id": 929754,
+        "title": "Saxagliptin Hydrochloride/Metformin Hydrochloride"
+    },
+    {
+        "id": 536195,
+        "title": "Scopolamine"
+    },
+    {
+        "id": 536240,
+        "title": "Scopolamine Hydrobromide"
+    },
+    {
+        "id": 930000,
+        "title": "Scorpion (Centruroides) Immune F(ab)2"
+    },
+    {
+        "id": 538520,
+        "title": "Secobarbital Sodium"
+    },
+    {
+        "id": 930219,
+        "title": "Secretin Human"
+    },
+    {
+        "id": 931337,
+        "title": "Secukinumab"
+    },
+    {
+        "id": 928519,
+        "title": "Selegiline"
+    },
+    {
+        "id": 539800,
+        "title": "Selegiline Hydrochloride"
+    },
+    {
+        "id": 541350,
+        "title": "Selenium Sulfide"
+    },
+    {
+        "id": 541913,
+        "title": "Senna"
+    },
+    {
+        "id": 542000,
+        "title": "Sermorelin Acetate"
+    },
+    {
+        "id": 927985,
+        "title": "Sertaconazole Nitrate"
+    },
+    {
+        "id": 544250,
+        "title": "Sertraline Hydrochloride"
+    },
+    {
+        "id": 928903,
+        "title": "Sevelamer Carbonate"
+    },
+    {
+        "id": 924823,
+        "title": "Sevelamer Hydrochloride"
+    },
+    {
+        "id": 923347,
+        "title": "Sevoflurane"
+    },
+    {
+        "id": 930941,
+        "title": "Short Ragweed Pollen Allergen Extract"
+    },
+    {
+        "id": 924705,
+        "title": "Sildenafil Citrate"
+    },
+    {
+        "id": 929230,
+        "title": "Silodosin"
+    },
+    {
+        "id": 930940,
+        "title": "Siltuximab"
+    },
+    {
+        "id": 548640,
+        "title": "Silver Nitrate"
+    },
+    {
+        "id": 548830,
+        "title": "Silver Sulfadiazine"
+    },
+    {
+        "id": 930835,
+        "title": "Simeprevir"
+    },
+    {
+        "id": 548915,
+        "title": "Simethicone"
+    },
+    {
+        "id": 549200,
+        "title": "Simvastatin"
+    },
+    {
+        "id": 549590,
+        "title": "Sincalide"
+    },
+    {
+        "id": 928804,
+        "title": "Sinecatechins"
+    },
+    {
+        "id": 929620,
+        "title": "Sipuleucel-T"
+    },
+    {
+        "id": 925033,
+        "title": "Sirolimus"
+    },
+    {
+        "id": 928638,
+        "title": "Sitagliptin Phosphate"
+    },
+    {
+        "id": 928769,
+        "title": "Sitagliptin Phosphate/Metformin Hydrochloride"
+    },
+    {
+        "id": 930021,
+        "title": "Sitagliptin Phosphate/Simvastatin"
+    },
+    {
+        "id": 927732,
+        "title": "Smallpox Vaccine"
+    },
+    {
+        "id": 555620,
+        "title": "Sodium Bicarbonate"
+    },
+    {
+        "id": 555890,
+        "title": "Sodium Chloride"
+    },
+    {
+        "id": 927882,
+        "title": "Sodium Ferric Gluconate Complex"
+    },
+    {
+        "id": 556160,
+        "title": "Sodium Fluoride"
+    },
+    {
+        "id": 922662,
+        "title": "Sodium Glycerophosphate"
+    },
+    {
+        "id": 925121,
+        "title": "Sodium Iodide I 123"
+    },
+    {
+        "id": 925199,
+        "title": "Sodium Iodide I 131"
+    },
+    {
+        "id": 930619,
+        "title": "Sodium Nitrite/Sodium Thiosulfate"
+    },
+    {
+        "id": 556560,
+        "title": "Sodium Nitroprusside"
+    },
+    {
+        "id": 924076,
+        "title": "Sodium Oxybate"
+    },
+    {
+        "id": 555695,
+        "title": "Sodium Phenylacetate/Sodium Benzoate"
+    },
+    {
+        "id": 923656,
+        "title": "Sodium Phenylbutyrate"
+    },
+    {
+        "id": 556650,
+        "title": "Sodium Phosphate Dibasic/Sodium Phosphate Monobasic"
+    },
+    {
+        "id": 924410,
+        "title": "Sodium Phosphate P 32"
+    },
+    {
+        "id": 930246,
+        "title": "Sodium Picosulfate/Magnesium Oxide/Citric Acid"
+    },
+    {
+        "id": 556667,
+        "title": "Sodium Polystyrene Sulfonate"
+    },
+    {
+        "id": 929975,
+        "title": "Sodium Sulfate/Potassium Sulfate/Magnesium Sulfate"
+    },
+    {
+        "id": 556965,
+        "title": "Sodium Tetradecyl Sulfate"
+    },
+    {
+        "id": 557000,
+        "title": "Sodium Thiosulfate"
+    },
+    {
+        "id": 930837,
+        "title": "Sofosbuvir"
+    },
+    {
+        "id": 928348,
+        "title": "Solifenacin Succinate"
+    },
+    {
+        "id": 559300,
+        "title": "Somatrem"
+    },
+    {
+        "id": 559330,
+        "title": "Somatropin, E-Coli Derived"
+    },
+    {
+        "id": 925054,
+        "title": "Somatropin, Mammalian Derived"
+    },
+    {
+        "id": 929439,
+        "title": "Sorafenib Tosylate"
+    },
+    {
+        "id": 560690,
+        "title": "Sorbitol"
+    },
+    {
+        "id": 560710,
+        "title": "Sotalol Hydrochloride"
+    },
+    {
+        "id": 924220,
+        "title": "Sparfloxacin"
+    },
+    {
+        "id": 929786,
+        "title": "Spinosad"
+    },
+    {
+        "id": 565000,
+        "title": "Spironolactone"
+    },
+    {
+        "id": 565100,
+        "title": "Spironolactone/Hydrochlorothiazide"
+    },
+    {
+        "id": 922311,
+        "title": "Stavudine"
+    },
+    {
+        "id": 572040,
+        "title": "Streptokinase"
+    },
+    {
+        "id": 572060,
+        "title": "Streptomycin Sulfate"
+    },
+    {
+        "id": 572075,
+        "title": "Streptozocin"
+    },
+    {
+        "id": 922188,
+        "title": "Strontium Chloride Sr 89"
+    },
+    {
+        "id": 930373,
+        "title": "Strontium Ranelate"
+    },
+    {
+        "id": 573200,
+        "title": "Succimer"
+    },
+    {
+        "id": 573590,
+        "title": "Succinylcholine Chloride"
+    },
+    {
+        "id": 573670,
+        "title": "Sucralfate"
+    },
+    {
+        "id": 930839,
+        "title": "Sucroferric Oxyhydroxide"
+    },
+    {
+        "id": 573897,
+        "title": "Sufentanil Citrate"
+    },
+    {
+        "id": 574398,
+        "title": "Sulconazole Nitrate"
+    },
+    {
+        "id": 556880,
+        "title": "Sulfacetamide Sodium"
+    },
+    {
+        "id": 574490,
+        "title": "Sulfadiazine"
+    },
+    {
+        "id": 574530,
+        "title": "Sulfadoxine/Pyrimethamine"
+    },
+    {
+        "id": 627447,
+        "title": "Sulfamethoxazole/Trimethoprim"
+    },
+    {
+        "id": 575390,
+        "title": "Sulfasalazine"
+    },
+    {
+        "id": 931082,
+        "title": "Sulfur Hexafluoride Lipid Type A Microspheres"
+    },
+    {
+        "id": 577200,
+        "title": "Sulindac"
+    },
+    {
+        "id": 924367,
+        "title": "Sumatriptan"
+    },
+    {
+        "id": 577900,
+        "title": "Sumatriptan Succinate"
+    },
+    {
+        "id": 929016,
+        "title": "Sumatriptan Succinate/Naproxen Sodium"
+    },
+    {
+        "id": 928502,
+        "title": "Sunitinib Malate"
+    },
+    {
+        "id": 931023,
+        "title": "Suvorexant"
+    },
+    {
+        "id": 930945,
+        "title": "Sweet Vernal/Orchard/Rye/Timothy/Kentucky Blue Grass Mixed Pollen Allergen Extract"
+    },
+    {
+        "id": 922304,
+        "title": "Tacrolimus"
+    },
+    {
+        "id": 927953,
+        "title": "Tadalafil"
+    },
+    {
+        "id": 930365,
+        "title": "Tafamidis Meglumine"
+    },
+    {
+        "id": 930112,
+        "title": "Tafluprost"
+    },
+    {
+        "id": 589280,
+        "title": "Talc"
+    },
+    {
+        "id": 930203,
+        "title": "Taliglucerase Alfa"
+    },
+    {
+        "id": 589540,
+        "title": "Tamoxifen Citrate"
+    },
+    {
+        "id": 924335,
+        "title": "Tamsulosin Hydrochloride"
+    },
+    {
+        "id": 929414,
+        "title": "Tapentadol Hydrochloride"
+    },
+    {
+        "id": 930888,
+        "title": "Tasimelteon"
+    },
+    {
+        "id": 931000,
+        "title": "Tavaborole"
+    },
+    {
+        "id": 924281,
+        "title": "Tazarotene"
+    },
+    {
+        "id": 930745,
+        "title": "Tbo-Filgrastim"
+    },
+    {
+        "id": 924417,
+        "title": "Technetium Tc 99m Albumin Aggregated"
+    },
+    {
+        "id": 930361,
+        "title": "Technetium Tc 99m Besilesomab"
+    },
+    {
+        "id": 925122,
+        "title": "Technetium Tc 99m Bicisate"
+    },
+    {
+        "id": 925213,
+        "title": "Technetium Tc 99m Disofenin"
+    },
+    {
+        "id": 923577,
+        "title": "Technetium Tc 99m Exametazime"
+    },
+    {
+        "id": 924418,
+        "title": "Technetium Tc 99m Medronate"
+    },
+    {
+        "id": 924415,
+        "title": "Technetium Tc 99m Mertiatide"
+    },
+    {
+        "id": 925038,
+        "title": "Technetium Tc 99m Pentetate"
+    },
+    {
+        "id": 924420,
+        "title": "Technetium Tc 99m Red Blood Cells"
+    },
+    {
+        "id": 925123,
+        "title": "Technetium Tc 99m Sestamibi"
+    },
+    {
+        "id": 930245,
+        "title": "Technetium Tc 99m Sodium Pertechnetate"
+    },
+    {
+        "id": 925118,
+        "title": "Technetium Tc 99m Succimer"
+    },
+    {
+        "id": 925119,
+        "title": "Technetium Tc 99m Sulfurcolloid"
+    },
+    {
+        "id": 924122,
+        "title": "Technetium Tc 99m Tetrofosmin"
+    },
+    {
+        "id": 930445,
+        "title": "Technetium Tc 99m Tilmanocept"
+    },
+    {
+        "id": 930989,
+        "title": "Tedizolid Phosphate"
+    },
+    {
+        "id": 930349,
+        "title": "Teduglutide"
+    },
+    {
+        "id": 930405,
+        "title": "Tegafur/Gimeracil/Oteracil Monopotassium"
+    },
+    {
+        "id": 926982,
+        "title": "Tegaserod Maleate"
+    },
+    {
+        "id": 929923,
+        "title": "Telaprevir"
+    },
+    {
+        "id": 929468,
+        "title": "Telavancin Hydrochloride"
+    },
+    {
+        "id": 928655,
+        "title": "Telbivudine"
+    },
+    {
+        "id": 928130,
+        "title": "Telithromycin"
+    },
+    {
+        "id": 924826,
+        "title": "Telmisartan"
+    },
+    {
+        "id": 929497,
+        "title": "Telmisartan/Amlodipine besylate"
+    },
+    {
+        "id": 926025,
+        "title": "Telmisartan/Hydrochlorothiazide"
+    },
+    {
+        "id": 594000,
+        "title": "Temazepam"
+    },
+    {
+        "id": 925029,
+        "title": "Temozolomide"
+    },
+    {
+        "id": 928801,
+        "title": "Temsirolimus"
+    },
+    {
+        "id": 925249,
+        "title": "Tenecteplase"
+    },
+    {
+        "id": 594300,
+        "title": "Teniposide"
+    },
+    {
+        "id": 926767,
+        "title": "Tenofovir Disoproxil Fumarate"
+    },
+    {
+        "id": 595570,
+        "title": "Terazosin Hydrochloride"
+    },
+    {
+        "id": 595860,
+        "title": "Terbinafine Hydrochloride"
+    },
+    {
+        "id": 595880,
+        "title": "Terbutaline Sulfate"
+    },
+    {
+        "id": 595985,
+        "title": "Terconazole"
+    },
+    {
+        "id": 930285,
+        "title": "Teriflunomide"
+    },
+    {
+        "id": 927598,
+        "title": "Teriparatide"
+    },
+    {
+        "id": 929756,
+        "title": "Tesamorelin Acetate"
+    },
+    {
+        "id": 597885,
+        "title": "Testolactone"
+    },
+    {
+        "id": 598130,
+        "title": "Testosterone"
+    },
+    {
+        "id": 598190,
+        "title": "Testosterone Cypionate"
+    },
+    {
+        "id": 598220,
+        "title": "Testosterone Enanthate"
+    },
+    {
+        "id": 923826,
+        "title": "Testosterone Undecanoate"
+    },
+    {
+        "id": 599270,
+        "title": "Tetanus Immune Globulin"
+    },
+    {
+        "id": 599300,
+        "title": "Tetanus Toxoid"
+    },
+    {
+        "id": 928835,
+        "title": "Tetanus Toxoid, Reduced Diphtheria Toxoid, and Acellular Pertussis Vaccine"
+    },
+    {
+        "id": 183530,
+        "title": "Tetanus and Diphtheria Toxoids, Adsorbed"
+    },
+    {
+        "id": 923827,
+        "title": "Tetrabenazine"
+    },
+    {
+        "id": 599540,
+        "title": "Tetracaine Hydrochloride"
+    },
+    {
+        "id": 599810,
+        "title": "Tetracycline Hydrochloride"
+    },
+    {
+        "id": 599960,
+        "title": "Tetrahydrozoline Hydrochloride"
+    },
+    {
+        "id": 928944,
+        "title": "Tetrastarch (hydroxyethyl starch 130/0.4)/Sodium Chloride"
+    },
+    {
+        "id": 924777,
+        "title": "Thalidomide"
+    },
+    {
+        "id": 924416,
+        "title": "Thallous Chloride Tl 201"
+    },
+    {
+        "id": 603170,
+        "title": "Theophylline"
+    },
+    {
+        "id": 609140,
+        "title": "Thiamine"
+    },
+    {
+        "id": 626088,
+        "title": "Thiethylperazine Maleate"
+    },
+    {
+        "id": 610130,
+        "title": "Thioguanine"
+    },
+    {
+        "id": 610255,
+        "title": "Thiopental Sodium"
+    },
+    {
+        "id": 610320,
+        "title": "Thioridazine Hydrochloride"
+    },
+    {
+        "id": 626085,
+        "title": "Thiotepa"
+    },
+    {
+        "id": 610585,
+        "title": "Thiothixene"
+    },
+    {
+        "id": 928972,
+        "title": "Thrombin Human, Recombinant"
+    },
+    {
+        "id": 928856,
+        "title": "Thrombin, Bovine"
+    },
+    {
+        "id": 928844,
+        "title": "Thrombin, Human"
+    },
+    {
+        "id": 613790,
+        "title": "Thyroid"
+    },
+    {
+        "id": 924827,
+        "title": "Thyrotropin Alfa"
+    },
+    {
+        "id": 924381,
+        "title": "Tiagabine Hydrochloride"
+    },
+    {
+        "id": 929979,
+        "title": "Ticagrelor"
+    },
+    {
+        "id": 614186,
+        "title": "Ticarcillin Disodium"
+    },
+    {
+        "id": 614187,
+        "title": "Ticarcillin Disodium/Clavulanate Potassium"
+    },
+    {
+        "id": 614500,
+        "title": "Ticlopidine Hydrochloride"
+    },
+    {
+        "id": 928425,
+        "title": "Tigecycline"
+    },
+    {
+        "id": 924255,
+        "title": "Tiludronate Disodium"
+    },
+    {
+        "id": 614925,
+        "title": "Timolol Maleate"
+    },
+    {
+        "id": 930944,
+        "title": "Timothy Grass Pollen Allergen Extract"
+    },
+    {
+        "id": 923352,
+        "title": "Tinidazole"
+    },
+    {
+        "id": 925390,
+        "title": "Tinzaparin Sodium"
+    },
+    {
+        "id": 922306,
+        "title": "Tioconazole"
+    },
+    {
+        "id": 615025,
+        "title": "Tiopronin"
+    },
+    {
+        "id": 927703,
+        "title": "Tiotropium Bromide"
+    },
+    {
+        "id": 931432,
+        "title": "Tiotropium Bromide/Olodaterol"
+    },
+    {
+        "id": 928424,
+        "title": "Tipranavir"
+    },
+    {
+        "id": 924718,
+        "title": "Tirofiban Hydrochloride"
+    },
+    {
+        "id": 924129,
+        "title": "Tizanidine Hydrochloride"
+    },
+    {
+        "id": 616035,
+        "title": "Tobramycin"
+    },
+    {
+        "id": 616040,
+        "title": "Tobramycin Sulfate"
+    },
+    {
+        "id": 616045,
+        "title": "Tobramycin/Dexamethasone"
+    },
+    {
+        "id": 616080,
+        "title": "Tocainide Hydrochloride"
+    },
+    {
+        "id": 929559,
+        "title": "Tocilizumab"
+    },
+    {
+        "id": 929059,
+        "title": "Tocophersolan"
+    },
+    {
+        "id": 930309,
+        "title": "Tofacitinib Citrate"
+    },
+    {
+        "id": 616825,
+        "title": "Tolazamide"
+    },
+    {
+        "id": 616930,
+        "title": "Tolbutamide"
+    },
+    {
+        "id": 924571,
+        "title": "Tolcapone"
+    },
+    {
+        "id": 617070,
+        "title": "Tolmetin Sodium"
+    },
+    {
+        "id": 617080,
+        "title": "Tolnaftate"
+    },
+    {
+        "id": 924703,
+        "title": "Tolterodine Tartrate"
+    },
+    {
+        "id": 929380,
+        "title": "Tolvaptan"
+    },
+    {
+        "id": 924096,
+        "title": "Topiramate"
+    },
+    {
+        "id": 923666,
+        "title": "Topotecan Hydrochloride"
+    },
+    {
+        "id": 924404,
+        "title": "Toremifene Citrate"
+    },
+    {
+        "id": 922255,
+        "title": "Torsemide"
+    },
+    {
+        "id": 930366,
+        "title": "Trabectedin"
+    },
+    {
+        "id": 923288,
+        "title": "Tramadol Hydrochloride"
+    },
+    {
+        "id": 926698,
+        "title": "Tramadol Hydrochloride/Acetaminophen"
+    },
+    {
+        "id": 930525,
+        "title": "Trametinib Dimethyl Sulfoxide"
+    },
+    {
+        "id": 923605,
+        "title": "Trandolapril"
+    },
+    {
+        "id": 924070,
+        "title": "Trandolapril/Verapamil Hydrochloride"
+    },
+    {
+        "id": 621560,
+        "title": "Tranexamic Acid"
+    },
+    {
+        "id": 622240,
+        "title": "Tranylcypromine Sulfate"
+    },
+    {
+        "id": 924802,
+        "title": "Trastuzumab"
+    },
+    {
+        "id": 926172,
+        "title": "Travoprost"
+    },
+    {
+        "id": 930384,
+        "title": "Travoprost/Timolol Maleate"
+    },
+    {
+        "id": 622860,
+        "title": "Trazodone Hydrochloride"
+    },
+    {
+        "id": 929443,
+        "title": "Treprostinil"
+    },
+    {
+        "id": 930928,
+        "title": "Treprostinil Diolamine"
+    },
+    {
+        "id": 623615,
+        "title": "Tretinoin"
+    },
+    {
+        "id": 623960,
+        "title": "Triamcinolone"
+    },
+    {
+        "id": 623962,
+        "title": "Triamcinolone Acetonide"
+    },
+    {
+        "id": 623965,
+        "title": "Triamcinolone Diacetate"
+    },
+    {
+        "id": 623967,
+        "title": "Triamcinolone Hexacetonide"
+    },
+    {
+        "id": 624239,
+        "title": "Triamterene"
+    },
+    {
+        "id": 624620,
+        "title": "Triazolam"
+    },
+    {
+        "id": 625925,
+        "title": "Trientine Hydrochloride"
+    },
+    {
+        "id": 626145,
+        "title": "Trifluoperazine Hydrochloride"
+    },
+    {
+        "id": 626150,
+        "title": "Triflupromazine Hydrochloride"
+    },
+    {
+        "id": 626151,
+        "title": "Trifluridine"
+    },
+    {
+        "id": 626505,
+        "title": "Trihexyphenidyl Hydrochloride"
+    },
+    {
+        "id": 627440,
+        "title": "Trimethobenzamide Hydrochloride"
+    },
+    {
+        "id": 627445,
+        "title": "Trimethoprim"
+    },
+    {
+        "id": 925130,
+        "title": "Trimethoprim Hydrochloride"
+    },
+    {
+        "id": 627677,
+        "title": "Trimipramine Maleate"
+    },
+    {
+        "id": 629755,
+        "title": "Triprolidine Hydrochloride"
+    },
+    {
+        "id": 926878,
+        "title": "Triptorelin Pamoate"
+    },
+    {
+        "id": 631960,
+        "title": "Trolamine Salicylate"
+    },
+    {
+        "id": 631990,
+        "title": "Tromethamine"
+    },
+    {
+        "id": 632150,
+        "title": "Tropicamide"
+    },
+    {
+        "id": 928161,
+        "title": "Trospium Chloride"
+    },
+    {
+        "id": 928368,
+        "title": "Trypan Blue"
+    },
+    {
+        "id": 633620,
+        "title": "Tuberculin"
+    },
+    {
+        "id": 928032,
+        "title": "Typhoid Vaccine, Live"
+    },
+    {
+        "id": 923233,
+        "title": "Typhoid Vi Polysaccharide Vaccine"
+    },
+    {
+        "id": 929677,
+        "title": "Ulipristal Acetate"
+    },
+    {
+        "id": 930946,
+        "title": "Umeclidinium"
+    },
+    {
+        "id": 930853,
+        "title": "Umeclidinium Bromide/Vilanterol Trifenatate"
+    },
+    {
+        "id": 925379,
+        "title": "Unoprostone Isopropyl"
+    },
+    {
+        "id": 643730,
+        "title": "Urea"
+    },
+    {
+        "id": 645535,
+        "title": "Urofollitropin"
+    },
+    {
+        "id": 645430,
+        "title": "Urokinase"
+    },
+    {
+        "id": 647000,
+        "title": "Ursodiol"
+    },
+    {
+        "id": 929484,
+        "title": "Ustekinumab"
+    },
+    {
+        "id": 928381,
+        "title": "Vaccinia Immune Globulin, Human"
+    },
+    {
+        "id": 923398,
+        "title": "Valacyclovir Hydrochloride"
+    },
+    {
+        "id": 926902,
+        "title": "Valdecoxib"
+    },
+    {
+        "id": 926419,
+        "title": "Valganciclovir Hydrochloride"
+    },
+    {
+        "id": 924272,
+        "title": "Valproate Sodium"
+    },
+    {
+        "id": 648667,
+        "title": "Valproic Acid"
+    },
+    {
+        "id": 924828,
+        "title": "Valrubicin"
+    },
+    {
+        "id": 924056,
+        "title": "Valsartan"
+    },
+    {
+        "id": 924661,
+        "title": "Valsartan/Hydrochlorothiazide"
+    },
+    {
+        "id": 648785,
+        "title": "Vancomycin Hydrochloride"
+    },
+    {
+        "id": 929847,
+        "title": "Vandetanib"
+    },
+    {
+        "id": 927850,
+        "title": "Vardenafil Hydrochloride"
+    },
+    {
+        "id": 928550,
+        "title": "Varenicline"
+    },
+    {
+        "id": 923312,
+        "title": "Varicella Virus Vaccine"
+    },
+    {
+        "id": 923340,
+        "title": "Varicella-Zoster Immune Globulin"
+    },
+    {
+        "id": 651150,
+        "title": "Vasopressin"
+    },
+    {
+        "id": 653610,
+        "title": "Vecuronium Bromide"
+    },
+    {
+        "id": 930961,
+        "title": "Vedolizumab"
+    },
+    {
+        "id": 929595,
+        "title": "Velaglucerase Alfa"
+    },
+    {
+        "id": 929998,
+        "title": "Vemurafenib"
+    },
+    {
+        "id": 922260,
+        "title": "Venlafaxine Hydrochloride"
+    },
+    {
+        "id": 653400,
+        "title": "Verapamil Hydrochloride"
+    },
+    {
+        "id": 925133,
+        "title": "Verteporfin"
+    },
+    {
+        "id": 656830,
+        "title": "Vidarabine"
+    },
+    {
+        "id": 923654,
+        "title": "Vigabatrin"
+    },
+    {
+        "id": 929925,
+        "title": "Vilazodone Hydrochloride"
+    },
+    {
+        "id": 930755,
+        "title": "Vildagliptin"
+    },
+    {
+        "id": 930347,
+        "title": "Vildagliptin/Metformin Hydrochloride"
+    },
+    {
+        "id": 659020,
+        "title": "Vinblastine Sulfate"
+    },
+    {
+        "id": 659040,
+        "title": "Vincristine Sulfate"
+    },
+    {
+        "id": 930272,
+        "title": "Vincristine Sulfate Liposome"
+    },
+    {
+        "id": 930393,
+        "title": "Vinflunine Ditartrate"
+    },
+    {
+        "id": 923045,
+        "title": "Vinorelbine Tartrate"
+    },
+    {
+        "id": 930100,
+        "title": "Vismodegib"
+    },
+    {
+        "id": 665180,
+        "title": "Vitamin A"
+    },
+    {
+        "id": 666230,
+        "title": "Vitamin E"
+    },
+    {
+        "id": 930950,
+        "title": "Vorapaxar"
+    },
+    {
+        "id": 926985,
+        "title": "Voriconazole"
+    },
+    {
+        "id": 928629,
+        "title": "Vorinostat"
+    },
+    {
+        "id": 930794,
+        "title": "Vortioxetine Hydrobromide"
+    },
+    {
+        "id": 671285,
+        "title": "Warfarin Sodium"
+    },
+    {
+        "id": 924412,
+        "title": "Xenon Xe 133"
+    },
+    {
+        "id": 679925,
+        "title": "Yellow Fever Vaccine"
+    },
+    {
+        "id": 923878,
+        "title": "Zafirlukast"
+    },
+    {
+        "id": 925030,
+        "title": "Zaleplon"
+    },
+    {
+        "id": 925026,
+        "title": "Zanamivir"
+    },
+    {
+        "id": 928360,
+        "title": "Ziconotide"
+    },
+    {
+        "id": 683220,
+        "title": "Zidovudine"
+    },
+    {
+        "id": 924117,
+        "title": "Zileuton"
+    },
+    {
+        "id": 923220,
+        "title": "Zinc"
+    },
+    {
+        "id": 922079,
+        "title": "Zinc Acetate"
+    },
+    {
+        "id": 926134,
+        "title": "Ziprasidone Hydrochloride"
+    },
+    {
+        "id": 926991,
+        "title": "Ziprasidone Mesylate"
+    },
+    {
+        "id": 930480,
+        "title": "Ziv-Aflibercept"
+    },
+    {
+        "id": 926501,
+        "title": "Zoledronic Acid"
+    },
+    {
+        "id": 924462,
+        "title": "Zolmitriptan"
+    },
+    {
+        "id": 684800,
+        "title": "Zolpidem Tartrate"
+    },
+    {
+        "id": 925208,
+        "title": "Zonisamide"
+    }
+]
